@@ -1,0 +1,2292 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+<!ENTITY florin CDATA "&#x0192;" -- Florin currency symbol (Netherlands) -->
+
+]>
+<TEI.2 lang=nl-1900>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title nfc=4>Het Vroolijke Leven</title>
+<author key="Reyneke van Stuwe, Jeanne" ref="https://viaf.org/viaf/25402974/">Jeanne Reyneke van Stuwe (1874&ndash;1951)</author>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=epub-id>urn:uuid:29bd2f38-3529-43dd-a280-d7ceb87d5797</idno>
+<idno type=PGclearance>20070315112441stuwe</idno>
+<idno type=PGDPProjectId>projectID45fb0fcc9bc0f</idno>
+<idno type=PGSrc>24386-Reyneke-van-Stuwe-Het-Vroolijke-Leven</idno>
+<idno type=PGnum>24386</idno>
+<date>2008-01-21</date>
+<availability lang=nl>
+<p>&availability.nl;
+
+<p>Dit eBoek is geproduceerd door Jeroen Hellingman en het on-line gedistribueerd correctieteam op <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
+
+<p lang=en>&availability.en;
+
+<p lang=en>This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
+
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Jeanne Reyneke van Stuwe</author>
+<title>Het Vroolijke Leven</title>
+<date>[1913]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc lang=nl>
+<p>Dit bestand is in een verouderde spelling. Er is geen poging gedaan de tekst te moderniseren. Afgebroken woorden aan het einde van de regel zijn stilzwijgend hersteld. Kennelijke zetfouten in het origineel zijn gecorrigeerd. Dergelijke correcties zijn gemarkeerd met het corr-element.
+
+<p>Hoewel in het origineel laag liggende aanhalingstekens openen gebruikt, zijn deze in dit bestand gecodeerd met &ldquo;. Geneste dubbele aanhalingstekens zijn stilzwijgend veranderd in enkele aanhalingstekens.
+
+</encodingDesc>
+<profileDesc>
+    <langUsage lang=nl>
+        <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
+        <language id=nl>Nederlands</language>
+        <language id=en>Engels</language>
+        <language id=de>Duits</language>
+        <language id=fr>Frans</language>
+    </langUsage>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2008-01-05 Begonnen.
+        <item>2010-05-13 Aanpassingen tbv ePub.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text>
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/front.jpg)">
+<figDesc>Oorspronkelijke voorkant.</figDesc>
+</figure>
+
+<p><figure id=spine>
+<figDesc>Oorspronkelijke rug.</figDesc>
+</figure>
+
+
+<pb>
+<titlePage>
+<docTitle><titlePart>Het Vroolijke Leven</titlePart></docTitle>
+
+<byline>Door
+
+<lb><docAuthor>Jeanne Reyneke van Stuwe</docAuthor>
+</byline>
+
+<docImprint>L. J. Veen&mdash;Amsterdam</docImprint>
+</titlePage>
+
+
+<pb>
+<div1 id=imprint type=Imprint>
+
+
+<p rend="align(center)">Typ. Zuid-Holl. Boek- en Handelsdrukkerij.
+
+
+
+
+<pb n=5 id=pb5>
+</front>
+<body>
+<div1 id=ch1 n=I type=Chapter>
+<head>I.</head>
+
+
+<p>Met groote stappen liep Max van den Heuvel zijn kleine kamer op en neer. Er lag een diepe frons tusschen zijn oogen, en soms beet hij <corr sic=ongeduldlg>ongeduldig</corr> zijn sterke witte tanden in zijn onderlip. Door het open raam kwam de koele avondlucht naar binnen, maar hij had het warm,&mdash;benauwd, broeiend warm in de bedompte ruimte, en toch stond het hem tegen, nu nog naar buiten te gaan.
+
+<p>Waar moest hij heen? Een eenzame wandeling maken? Naar het een of ander café, waar hij wel kennissen zou ontmoeten, om zich door hen vrij te laten <pb n=6 id=pb6>houden? Bah! hij had er genoeg van! hij had er meer dan genoeg van!
+
+<p>Driftig keek hij om zich heen. Alles irriteerde hem hier....of liever het <hi>niets</hi> irriteerde hem hier. Want wat bezat hij? wat kon hij in de wereld het zijne noemen? Die armzalige meubileering van deze armzalige kamer, was nog niet eens zijn eigendom. De matten stoel bij het raam, de onoogelijk-kleine tafel, dat geverfde kastje, &apos;t was meer dan min, en toch, dát zelfs, niet eens van hem.
+
+<p>Thans werd het te erg. Hij hield het gewoon niet uit. Nog langer te leven op dat hongerloon van zes gulden in de week, hij bedankte er eenvoudig voor. Was hij, Max, nu daartoe geboren?....
+
+<p>Moest hij misschien nog blij wezen, dat hij dit werk mocht doen? Klerkje spelen, <pb n=7 id=pb7>den heelen dag gebogen zitten over idiote papieren, bebromd als een kleine jongen, wanneer hij zich eens vergiste.... Dat moest uit zijn! uit zijn!
+
+<p>Hij stampte met den voet op den grond. Wat een scharrelleven had hij geleid, sinds hij zijn juridische studiën vaarwel zei. Maar je moet maar pech hebben in het leven. Als zijn vader slechts een paar jaar later gestorven was, dan zou hij advocaat zijn geweest. De menschen hadden goed praten: dat hij tóch voort had moeten gaan; er waren er zóóveel, die een betrekking waarnamen, en toch voort studeerden.... En als hij dan geen kleeren had, en geen woning had? en moest hij soms van zijn zes gulden in de week het college-geld oversparen?
+
+<p>Hij had wel eens wat meer verdiend met <pb n=8 id=pb8>journalistiek werk; maar dat was toch maar voor korten tijd geweest. Neen, daar was hij óók al niet voor geschikt. Neen! Waarom het niet eerlijk te constateeren: hij wás geen mensch, om moeizaam droog brood te verdienen. Hij deed het wel, natuurlijk, omdat het moest, maar het was geen leven. Hij voelde veel te goed, dat er iets in hem zat; zonder ijdel te wezen kon hij zichzelf dit gerust bekennen. Hij kon schrijver wezen, dichter, dramaticus, als de omstandigheden hem daartoe maar in de gelegenheid stelden. Hij was er niet iemand naar, om de prachtigste romans en verzen neer te kunnen pennen op de flardige randjes van couranten-papier of de achterzijde van aan de deur afgegeven drukwerkjes, gezeten op een stoel met anderhalven poot, en bij het licht van een <pb n=9 id=pb9>kaarsje op een oude flesch.... Bah! bah! hij moest ruimte, licht, weelde, om zich heen hebben, of er kwam niets van hem terecht. Niets!
+
+<p>Hij moest iets bedenken, om uit deze onmogelijke positie te geraken. Hij dacht al dagen lang, zonder verder te komen. En toch had hij een eed bij zichzelven gedaan, dat hij zich redden zou. Kom! hij had toch capaciteiten genoeg, om iets hoogers in de wereld te zijn, dan wat hij nu was,&mdash;hij had recht op een betere positie in het leven, ja, recht! recht! Hij, met zijn uiterlijk, met zijn ontwikkeling, met zijn beschaafde manieren, met zijn aanleg.... behoefde toch niet eeuwig een walgelijk stumperdje te blijven op een kantoor, met een loon van zes gulden per week voor zesenvijftig uren werk?.... <pb n=10 id=pb10>Nog geen twaalf centen per uur, de helft van wat de eerste de beste timmerman of metselaar verdiende.... nauwelijks opperman&apos;s-loon was het, en daar moest hij, <hi>hij</hi> zich mee tevreden stellen. En dan klaagden die lui nog, god beter &apos;t, ze werden socialist, omdat ze werden &ldquo;uitgebuit&rdquo;,&mdash;en wat werd <hi>hij</hi> dan?!.... En wat waren zij dan nog bij hém vergeleken?
+
+<p>Hij had gedacht, gedacht, hoe hij toch aan dit armoe-lot kon ontkomen. Hij was bijvoorbeeld uitstekend op de hoogte van vormen en goede manieren. Maar wat kon hij daarmee verdienen? Hij kon toch niet zoo maar het een of ander parvenus-huis binnen-stappen, met de boodschap, dat hij hier &ldquo;manieren wou komen onderwijzen&rdquo;? Wie hielp hem aan een familie, die behoefte had aan dat onderwijs? Hij kon toch óok <pb n=11 id=pb11>niet adverteeren: &ldquo;<hi>Gedistingeerd jongmensch biedt zich aan, om parvenu&apos;s te beschaven</hi>&rdquo;?
+
+<p>Ook kon hij zich wel &ldquo;verhuren,&rdquo; om als voorname gast diners en soirées met zijn tegenwoordigheid op te luisteren. Maar <hi>daarvoor</hi> was zijn naam nu weer niet goed genoeg. Van den Heuvel kon iedereen heeten, en dat hij nu toevallig was van den aristocratischen tak, dat stond niet op zijn aangezicht te lezen. Of liever, dat stond <hi>wel</hi> op zijn aangezicht geschreven, maar dat was niet voldoende. Was hij maar van adel, dan, ja, dan zou hij altijd nog wel steun kunnen vinden. Dan was er wel iemand te vinden, die niet graag zou zien, dat zijn naam &ldquo;door het slijk gesleurd&rdquo; werd, en den jongen bloedverwant daarom voorthielp, desnoods in de diplomatie....
+
+<p>Hij moest toch even lachen om die gedachte: <pb n=12 id=pb12><hi>desnoods</hi> in de diplomatie.... En wat was hij nu? <foreign lang=fr>Mon dieu!</foreign>
+
+<p>Maar toch.... had hij geen familie, bestond er niemand, aan wien hij zich presenteeren kon, zeggende, dat hij tot een wanhoopsdaad in staat zou zijn, als men hem liet zonder hulp? Want dan zou hij gaan zwendelen of stelen of pornografische boeken schrijven.... Neen! dat kon hij toch niet gaan zeggen, omdat hij dat immers nooit zou doen!
+
+<p>Teekenen voor koloniaal? Daar had hij feitelijk geen physiek voor. Bakker worden? brandweerman? Heel goed. Maar, zouden ze hem aannemen? Ach, neen, in dergelijke beroepen werd hij niet toegelaten.
+
+<p>Maar het was toch te gek, zie je, te gek, dat Max zoo maar kalm hier zat te verhongeren. <hi>Iets</hi> móest er gebeuren.
+
+<pb n=13 id=pb13><p>Goed gezegd, maar wat?
+
+<p>Zijn vrienden konden hem niet helpen. Die waren voor het meerendeel even arme slokkers als hij. Of ze leefden in verhoudingen, die het hun onmogelijk maakten een broeder in den nood bij te staan.
+
+<p>Hij moest in deze zaak vertrouwen op zichzelf. Op zijn eigen vlugge hersenen, op zijn eigen minder-vlugge handen....
+
+<p>Zijn handen, ja, gespierd waren ze wel.... voor roeien, tennissen, en schermen geschikt genoeg.... wacht! kon hij geen les in tennissen geven?
+
+<p>En waar moest hij dat dan doen? Hier op zijn kamer? Neen, maar dat was toch wel iets, om over te denken. Hij werd dan gewoon meegenomen naar het veld, en geïntroduceerd door den jongeheer of de jonge dame, die(n) hij les gaf, als <pb n=14 id=pb14>kennis. Een wit-flanellen pak zou zooveel niet kosten. Ja, waarachtig, dat was een idee.
+
+<p>Maar een oogenblik later dacht hij alweer: Nou, ja, het is een goede gedachte, en ik zal het misschien ook wel doen, maar fortuin zal ik met dat baantje toch zeker niet maken. En daarom is &apos;t me toch te doen.
+
+<p>Rusteloos stapte hij zijn kamer op en neer, op en neer. Hoe langer het duurde, eer hij iets vond, hoe ongeduriger en ongehumeurder hij werd. Hij moest maar naar bed gaan. &apos;t Gaf hem allemaal toch niets. En wat had hij er aan, om morgen met een dof hoofd op dat ellendige, broeiwarme kantoor te zitten, zoodat elk woord hem inspanning kostte, en de pennehouder zich bijna niet door zijn loome vingers liet voort-bewegen....
+
+<p>Maar hij zou immers toch niet kunnen <pb n=15 id=pb15>slapen? O, neen. Daarvoor werkte zijn hoofd veel te snel en te helder. Hij moest nog maar eens verder denken....
+
+<p>Als hij eens een speelbank oprichtte? Houders van speelbanken maakten altijd fortuin. Als ze tenminste voorzichtig waren, en zorgden buiten de handen der politie te blijven.... Maar....
+
+<p>Hè, vervloekt! er was toch ook altijd een &ldquo;maar&rdquo;! En toch had hij met dat &ldquo;maar&rdquo; rekening te houden. Want om een speelbank te kunnen beginnen, daarvoor was kapitaal noodig. En wie zou hem dat willen voorschieten? Wie zou zich aan een dergelijke risico wagen?....
+
+<p>Maar, lieve hemel, was er dan niets, niets voor hem te vinden? Dat kón toch niet. Dat was toch godsonmogelijk.... gods-terwereld-onmogelijk....
+
+<pb n=16 id=pb16><p>Was er geen geld te slaan uit zijn literaire talenten, die hij toch werkelijk, sans blague, bezat.... Letterkundige begaafdheid hád hij, dat was hem meermalen door bevoegde kunstrechters verzekerd. Maar als hij niet het geluk had in den populairen smaak te vallen, dan was het immers toch niets gedaan?....
+
+<p>Hij stond voor den kleinen spiegel, die boven den schoorsteenmantel hing, en bekeek zich, zonder dat hij het zich bewust was, aandachtig. Een aangenamen indruk maakte hij.... flinke oogen, hoog voorhoofd.... Toen ging hij kijken met meer besef, en terwijl hij zichzelf zoo bezag, dwaalden er gedachten door zijn hoofd, die allengs een vaster vorm aannamen.... literaire gaven.... succes bij vrouwen.... Zijn hersenen werkten al sneller en sneller.... <pb n=17 id=pb17>in een oogenblik verzon hij combinaties.... zette hij schema&apos;s in elkaar, en spon ze uit.... Zoo zou het gaan.... Zóo kon het.... moest het....
+
+<p>Zijn gezicht begon al vroolijker te staan, terwijl hij dacht en dacht. En eensklaps sprong er een zware vloek hem van de lippen, en hardop riep hij:
+
+<p>&mdash;Ik ben er! ik heb &apos;t gevonden!
+
+<p>Hij zette zich neer in zijn stoel, legde het eene been over het andere, en omgreep den enkel met beide handen. Zijn wenkbrauwen fronsden zich van het ingespannen denken, maar nu hij <corr sic=eemaal>eenmaal</corr> &ldquo;het&rdquo; gevonden had, was de nadere uitwerking van zijn plan niet zoo moeilijk meer. Zijn oogen begonnen te stralen van ondeugend pleizier.... en tot laat in den nacht bleef hij zitten fantaseeren, en bekeek <pb n=18 id=pb18>zijn prachtig plan vergenoegd van alle kanten.
+
+
+
+
+<div1 id=ch2 n=II>
+<head>II.</head>
+
+
+<p>Den volgenden morgen werd hij wakker, doordat de deur van zijn kamer openging, en hij zijn vriend Robert Roodhaar verschijnen zag. Roodhaar was Robert&apos;s bijnaam, ter oorzaak van zijn wit-blond, bijna kleurloos haar,&mdash;zooals den roodharigen Frits Verhaeren de naam van &ldquo;Sneeuw&rdquo; was gegeven,&mdash;hij heette eigenlijk Lam, maar hij had zoozeer het land daaraan, dat hij zich getroost Roodhaar had hooren doopen.
+
+<p>Robert Roodhaar trad toe op het bed, waarin, tot zijn verbazing, Max hem vriendelijk lag toe te lachen.
+
+<p>&mdash;Ben je dan niet ziek?
+
+<pb n=19 id=pb19><p>&mdash;Nee, zoon van Walter Scott. Wat doe jij zoo vroeg op de vlakte?
+
+<p>&mdash;Vroeg? wat scheelt je toch? &apos;t Is tien uur. Waarom ben je niet op kantoor?
+
+<p>&mdash;Ik had geen zin.
+
+<p>&mdash;Geen zin?!
+
+<p>&mdash;Nee.
+
+<p>&mdash;En dat vertel je zoo kalm? Ben je plotseling gek geworden, of....
+
+<p>&mdash;Nee, gek ben &apos;k niet en kachel ben &apos;k óok niet, en ziek ben &apos;k ook niet.
+
+<p>&mdash;Ik kwam even de Mercure de France bij je aanreiken. Ik dacht natuurlijk, dat je op kantoor was. Toen zegt me je huisjuffrouw: Ga u maar &apos;s na binnen, meneer doet zoo raar, hij het gerust de <corr sic=koors>koorts</corr>.
+
+<p>Max barstte in lachen uit.
+
+<p>&mdash;Zei ze dat?
+
+<p>&mdash;Ja, ze had je om acht uur geklopt. <pb n=20 id=pb20>Meneer, sta u op! Nee, had je gezegd. Is u ziek, meneer? Dat niet, juffrouw, maar ik heb nog slaap. Dag, juffrouw. Ze had je nog &apos;s geroepen, en nog &apos;s geroepen, maar je had alleen maar gesnorkt.
+
+<p>&mdash;Dat wil &apos;k waarachtig wel gelooven, ik ben pas om vier uur gaan maffen.
+
+<p>&mdash;Wat heb je dan uitgevoerd?
+
+<p>Max richtte zich wat op, en wijzend met zijn vinger naar Robert, zei hij met nadruk:
+
+<p>&mdash;Ik heb vannacht m&apos;n fortuin gemaakt.
+
+<p>&mdash;Hij is verdomd gek, zuchtte Robert, en viel verslagen neer op een stoel. Max lag hem met ondeugend-schitterende, &ldquo;echt-krankzinnige&rdquo; oogen aan te kijken.
+
+<p>&mdash;Nee, &apos;k word griezelig van je, hoor. Zooeven was d&apos;r &apos;n jongetje van je kantoor geweest, toen heeft de juffrouw de boodschap mee-gegeven, dat je de &ldquo;koorts <pb n=21 id=pb21>in &apos;t hoofd&rdquo; had. Maar dat geloof ik nou werkelijk ook.
+
+<p>&mdash;Ha! ha! lachte Max. Met een energieke beweging sprong hij uit het bed, en plaste een stortenden stroom in de waschkom. Blijf je ontbijten?
+
+<p>&mdash;Ik héb natuurlijk al ontbeten.
+
+<p>&mdash;Ja, maar, hè, als ik je inviteer op pâté de foie gras.... en sardines in tomatensaus.... hè?
+
+<p>&mdash;Zit &apos;t er zoo aan?
+
+<p>&mdash;Nog niet, maar jij leent me wel &apos;n rijkspop.
+
+<p>&mdash;Ik?!
+
+<p>&mdash;Ja, jij, knipoogde Max. Toe, boy, terwijl ik me aankleed, ga jij nou even naar Botter, je weet wel, en haal de dingen, en vergeet niet &apos;n paar broodjes, geraspte broodjes....
+
+<pb n=22 id=pb22><p>&mdash;Ben je goed wijs?
+
+<p>&mdash;Ga nou, als je terug-komt zal &apos;k je alles vertellen. Ga nou, ik ontbijt anders alleen maar met &apos;n kop chocola, ik wil &apos;t d&apos;r nou &apos;s van nemen. Je zal ophooren, zeg. &apos;t Is voor jou óok voordeelig, daarom bewijs me voor &apos;t laatst &apos;n liefdedienst, en haal de pâté.
+
+<p>&mdash;Je hebt toch geen erfenis gekregen, die je met mij wil deelen?
+
+<p>&mdash;Mieux que ça.
+
+<p>Robert stond nog besluiteloos bij de deur. Uiterst nieuwsgierig was hij, want hij geloofde nu toch niet meer, dat Max ziek of krankzinnig moest zijn. Hij zag veel te helder en te vergenoegd uit zijn oogen, zijn bewegingen waren veel te energiek en te krachtig. Wat was dat gezicht veranderd; hoe stond het pijnlijk en somber <pb n=23 id=pb23>en lusteloos  gisteren nog,&mdash;en nu straalde het, stráálde het letterlijk.
+
+<p>&mdash;Zeg &apos;t me nou eerst.
+
+<p>&mdash;O, god, nee man, &apos;t is &apos;n heel verhaal. Ga nou, ik ben dadelijk klaar.
+
+<p>Toen Robert terug-kwam, en naar Max&apos; tevredenheid de boodschappen punctueel had verricht, beval Max, dat er eerst zou ontbeten worden, voor hij begon te vertellen.
+
+<p>&mdash;Ik heb zoo&apos;n allemachtige honger, zeg, ik zou nu toch niet kunnen praten.
+
+<p>Zij aten. Max smeerde de pâté dik op het open-gesneden broodje, en keek Robert van tijd tot tijd aan met veelzeggend-ondeugenden blik. Ja, jong, als je &apos;t hoort! als je &apos;t hoort! Zeg, jij kan je journalisten-baantje d&apos;r dan óok wel bij neerleggen, hoor. Jij ben ook &apos;n knappe kerel.
+
+<pb n=24 id=pb24><p>&mdash;Ja, god, ja, ik heb goed genoeg m&apos;n verstand, maar....
+
+<p>&mdash;Dat bedoel ik niet, ik bedoel je uiterlijk.
+
+<p>&mdash;M&apos;n uiterlijk?
+
+<p>Max barstte bij het zien van zijn vriend&apos;s onthutst gezicht in zoo&apos;n dollen schaterlach uit, dat hij niet tot bedaren kon komen, totdat hij zich bijna verslikte; toen kalmeerde hij.
+
+<p>&mdash;Ja, nou begrijp ik d&apos;r niks meer van.
+
+<p>&mdash;Hoeft ook niet. Wacht maar, je zal &apos;t nou gauw hooren. Hij liet het laatste restje tomatensaus op zijn broodje druppelen, at het op, en zei:
+
+<p>&mdash;Ziezoo. Nou nog &apos;n sigaret, en ik ben je man. Merci, zei hij, en nam een sigaret uit Robert&apos;s aangeboden koker. Nou nog &apos;n vlammetje....
+
+<p>Hij plofte in zijn matten stoel, leunde <pb n=25 id=pb25>gemakkelijk daarin, en sloeg de beenen over elkaar.
+
+<p>&mdash;Nou moet je goed luisteren, zeg, en al je aandacht....
+
+<p>&mdash;Ja, schiet maar af.
+
+<p>&mdash;Nou, ik moet je dan zeggen, dat &apos;k al &apos;n heele poos beu ben van dat beroerde, verdoemde leven, dat &apos;k dag aan dag moet leiden. Ik heb me kop te barsten gedacht, om iets te vinden....
+
+<p>&mdash;Nou ja.
+
+<p>&mdash;Dat interesseert je niet, hè? Maar dat is anders juist &apos;t interessantste. Enfin. Nou, ik héb wat bedacht.
+
+<p>&mdash;Zoo?
+
+<p>&mdash;Ja. Ik ga &apos;n tijdschrift oprichten.
+
+<p>&mdash;Jij? &apos;n Tijdschrift? Nou, dat is &apos;n héél nieuw idee. &apos;n Tijdschrift!
+
+<p>&mdash;Maar wat voor een! &apos;n Heel nieuw idee <pb n=26 id=pb26>is &apos;t, daar heb je gelijk in, absoluut nieuw, gloednieuw, oorspronkelijk, origineel....
+
+<p>&mdash;Ga voort.
+
+<p>&mdash;&apos;n Tijdschrift voor dames.
+
+<p>&mdash;Phh! dàt is werkelijk iets nieuws.
+
+<p>&mdash;Doe niet zoo minachtend. &apos;n Tijdschrift voor dames, ja. Onder <hi>mijn</hi> redactie. Omdat ik zoo&apos;n &ldquo;bekoorlijk&rdquo; uiterlijk heb. Vat je &apos;t nu? Ik zweer je, ik heb succes. Ik laat prospectussen drukken met mijn portret, en &apos;t loopt storm. Daar ben ik van overtuigd. Als medewerkers neem &apos;k ook alleen &ldquo;knappe&rdquo; jongens aan. Wat zeg je?
+
+<p>&mdash;&apos;n Verdomd goed idee! riep Robert, enthousiast, en sloeg zich op zijn knie.
+
+<p>&mdash;Zie je nou wel?
+
+<p>&mdash;En <hi>ik</hi> val óok in de termen? Zeer geflatteerd.
+
+<p>&mdash;Ja, je haar is wel wat wit, maar je <pb n=27 id=pb27>bent toch &apos;n &ldquo;aardige&rdquo; jongen. En je teekent je stukken: Robert Roodhaar. Dat staat pikant.
+
+<p>Robert moest lachen.
+
+<p>&mdash;&apos;t Is &apos;n kranige inval.
+
+<p>&mdash;Nietwaar? <hi>Alle</hi> bladen voor vrouwen staan onder redactie van &apos;n vrouw. Kan je je voorstellen, hoe pikant &apos;t is voor de abonnées nu altijd met &apos;n man te doen te hebben? Zeg? Nou moet &apos;k nog meer medewerkers gaan opsnorren. Of ze talent hebben, komt er zooveel niet op aan, dat begrijp je, als ze d&apos;r maar goed uitzien, en aardig in de omgang zijn.
+
+<p>&mdash;Valt Sneeuw d&apos;r dan buiten?
+
+<p>&mdash;Sneeuw .... &apos;t is zoo&apos;n geestige vent.... die kan ik niet missen. Nee, die moet meedoen. Dan dient hij maar als repoussoir voor de anderen.
+
+<p>&mdash;En de uitgever?
+
+<pb n=28 id=pb28><p>&mdash;Ik heb gedacht over Wouters. Dat is &apos;n eerlijke, soliede, joviale kerel.
+
+<p>&mdash;Maar heeft geen geld.
+
+<p>&mdash;Ik help &apos;m d&apos;r boven op. Hij verdient &apos;t. We gaan zoometeen dadelijk met &apos;m spreken. En zeg, dan huren we &apos;n nette verdieping af voor bureau; ik heb m&apos;n privé kantoor.... En we zullen allerlei wedstrijden verzinnen: &apos;n schoonheidswedstrijd, &apos;n wedstrijd in &apos;t liefdesbrieven schrijven.... en houden dan plechtig prijzenuitdeeling....
+
+<p>&mdash;En je kan picnics organiseeren, en bals....
+
+<p>&mdash;O, jé, &apos;t maakt éclat! We gaan nu dadelijk &apos;t bekend maken, en adverteeren, dat er nú al ingeschreven kan worden, dan weten we, met hoeveel abonnementen we beginnen, begrijp je?
+
+<pb n=29 id=pb29><p>&mdash;En de titel?
+
+<p>&mdash;De titel weet ik óok al. &apos;n Prachtige. Ik zal je zeggen, hoe ik d&apos;r aan gekomen ben. Door die ellendige geschiedenis van Marceline Kam en die Spaansche schilder.
+
+<p>&mdash;O, die weg-geloopen is met die schilder?
+
+<p>&mdash;Ze is niet weg-geloopen. Ze is gescheiden van Kam, en getrouwd met die schilder. Nou, ze woonde in Parijs, en daar is plotseling die schilder aan typhus gestorven, en zij heeft ook de typhus gehad, en &apos;t kind is dood, tenminste, &apos;t ging mis daardoor. Verschrikkelijk, hè?
+
+<p>&mdash;Och, ja.
+
+<p>&mdash;Jij kende d&apos;r niet?
+
+<p>&mdash;Nee, wel veel over hooren spreken, natuurlijk.
+
+<p>&mdash;Nou, ik ben d&apos;r wel &apos;s geweest, maar ik moet je zeggen, &apos;t heeft me beroerd <pb n=30 id=pb30>getroffen, toen ik &apos;t hoorde. Ze schijnen bar gelukkig samen te zijn geweest. En hij schilderde haar. &apos;t Schilderij was nog niet af....
+
+<p>&mdash;Is zij weer beter?
+
+<p>&mdash;Beter, nee, ze sukkelt nog altijd. Ze heeft, geloof ik, niet veel besef. Misschien wordt ze wel krankzinnig.
+
+<p>&mdash;En is ze nog in Parijs?
+
+<p>&mdash;Nee, d&apos;r eerste man, Kam, de bankier, heeft d&apos;r terug-genomen. Verdomd mooi, hè?
+
+<p>&mdash;Ja.
+
+<p>&mdash;Nou, die Marceline werd door haar man geschilderd als &ldquo;Eva,&rdquo;&mdash;Eva hier genomen als het type, het oerbeeld van de vrouw,&mdash;en daardoor ben ik op &apos;t denkbeeld gekomen, ons blad: <hi>Eva</hi> te noemen. Wat denk je daarvan?
+
+<pb n=31 id=pb31><p>&mdash;Uitstekend!
+
+<p>&mdash;Ik dacht óok, dat d&apos;r geen betere naam voor gevonden kon worden. En dan heeft die tragische historie van Marceline zoo&apos;n indruk op me gemaakt, dat ik denk &apos;n roman daarover te gaan schrijven in ons blad.
+
+<p>&mdash;Kan je dat doen?
+
+<p>&mdash;Natuurlijk als ik de namen verander, en de situaties verander.
+
+<p>&mdash;Nu dat&apos;s óok &apos;n goed idee. Pakkend, spannend.
+
+<p>&mdash;Ja, &apos;n roman van <hi>mijn</hi> hand.... zooiets moet wel, dat zal een voorwaarde van Wouters zijn, en daarom ben &apos;k blij, dat &apos;k zoo&apos;n mooi onderwerp heb, nu kan &apos;k &apos;m die beloven.
+
+<p>&mdash;Moet mijn portret óok niet in de circulaire?
+
+<p>&mdash;Nee, walgelijke ijdeltuit. Maar zoo <pb n=32 id=pb32>gauw je &apos;n langer stuk hebt, zetten we je d&apos;r bij hoor, in &apos;t blad.
+
+<p>&mdash;Mooi zoo.
+
+<p>&mdash;&apos;t Zal &apos;n sensatie geven! &apos;n Sensatie! Binnen &apos;t jaar voorspel ik je duizend abonnées.
+
+<p>&mdash;Toe maar.
+
+<p>&mdash;O, ik ben volstrekt niet te optimist.
+
+<p>&mdash;En wat wordt &apos;t? &apos;n &ldquo;Weekblad? &apos;n maandblad?
+
+<p>&mdash;&apos;n Weekblad natuurlijk. Ze moeten dikwijls wat van ons hooren.
+
+<p>&mdash;Als &apos;t goed gaat, kan je ook nog &apos;n huwelijksbureau bij de affaire oprichten....
+
+<p>&mdash;Niet schuin worden. Heb je nog &apos;n sigaret? Merci. Nou, laten we nou &apos;s recapituleeren, want we moeten goed weten wat we Wouters zullen zeggen. Je hebt immers tijd?
+
+<pb n=33 id=pb33><p>&mdash;Ja, ik moest de soesoehoenan van Betsjoeanaland, of hoe heet dat heer, aan &apos;t station gaan opvangen, maar hij komt pas om twee uur, hoorde ik daar.
+
+<p>&mdash;Prachtig; schrijf jij op.
+
+<p>Robert haalde zijn reportersboekje voor den dag, en legde het open op zijn knie.
+
+<p>&mdash;Weekblad oprichten. Naam: Eva. Redactie: Max van den Heuvel. Medewerkers: Robert Roodhaar, Sneeuw....
+
+<p>&mdash;Sneeuw kan je niet zetten; als je al onze aliassen neemt, lijkt &apos;t blad wel &apos;n Humoristisch Album.
+
+<p>&mdash;Frits Verhaeren, schreef Robert gehoorzaam.
+
+<p>&mdash;Nou, en dan Jan, en Karel.... en.... ja, d&apos;r zijn d&apos;r eigenlijk niet zoo bar veel....
+
+<p>&mdash;Nee, als &apos;t tenminste allemaal <foreign lang=fr>beaux garçons</foreign> moeten zijn.... Maar <hi>ik</hi> zeg je, <pb n=34 id=pb34>dat &apos;n leelijke baas, als hij maar brutaal en geestig is, minstens evenveel succes heeft bij de vrouwen, als &apos;n &ldquo;mooie&rdquo; jongen.
+
+<p>&mdash;Als &apos;n domme, idiote, onnoozele &ldquo;mooie&rdquo; jongen, maar als die mooie jongen nou óok nog geestig is, en brutaal?....
+
+<p>&mdash;O, maar waar vind je die exemplaren?
+
+<p>&mdash;Een heb ik er gevonden, dat is al ruim genoeg, zei Max, en streek met zoo&apos;n welbewust air van tevredenheid zijn kleinen zwarten knevel op, dat Robert lachend een vloek uitstiet.
+
+<p>&mdash;Pedant être!
+
+<p>&mdash;Zelfkennis, is dat pedanterie? vroeg Max onschuldig. Maar de vreugde schitterde hem uit de oogen, en lachte van zijn bewegelijke lippen.
+
+<p>Hij voelde zich zóo luchtig, zóo blij, na <pb n=35 id=pb35>den zwaren tijd, dien hij had doorgemaakt, dat hij geheel veranderd was, verruimd, haast opgetogen. Zijn eigenlijk-opgewekt temperament herstelde zich weer, hij werd opnieuw de oude dolle Max, die wagen durfde, en zeker was te winnen.
+
+<p>&mdash;Rubrieken?
+
+<p>&mdash;Hoofdartikel. Ik weet wel niet, wie dat geregeld schrijven moet.... maar &apos;t hoort in zoo&apos;n blad. De vrouwtjes houden er van bepreekt te worden.
+
+<p>&mdash;Nou, dan kan jij &apos;t niet doen: als de vos de passie preekt.... Maar Karel is daar zoo uitstekend geschikt voor, zeg, die lijmt alles aan elkaar. En laat &apos;m dan onderteekenen: Kaatje!
+
+<p>&mdash;Ben je gek?.... Schetsen, novellen, romans, verzen.... daar zullen <hi>wij</hi> wel allemaal voor zorgen, desnoods onder verschillende <pb n=36 id=pb36>pseudoniemen. Correspondentie.... dat doe <hi>ik</hi>. Ik lach me &apos;n ongeluk, als ik daaraan denk. Nou, dan: ingezonden stukken.... die zullen we genoeg krijgen. Wedstrijden....
+
+<p>&mdash;En moet je niet wat over de vrouwenbeweging hebben? Daar kan je haast niet buiten in &apos;n modern damesblad.
+
+<p>&mdash;Dat is waar. Maar ik zie waarachtig geen kans.... Laten we daar dan nog maar wat mee wachten. Daar zal dan wel &apos;n medewerker of medewerkster voor opduikelen.
+
+<p>&mdash;Nee, &apos;t is beter, er dadelijk mee te beginnen. Dat geeft fidutie. Als ze merken, dat wij mannen zoo degelijk zijn, en dat <hi>wij</hi> er voor willen zorgen, dat de vrouwen meer rechten en meer vrijheid krijgen....
+
+<p>&mdash;Nou, goed, dan zal ik wel &apos;s &apos;n paar artikelen schrijven, om &apos;t vrije huwelijk aan te bevelen, en te zeggen, dat &apos;t onderzoek <pb n=37 id=pb37>naar &apos;t moederschap verboden moest zijn....
+
+<p>&mdash;Nou zonder gekheid. Ken je Eleonore van Aalst?
+
+<p>&mdash;Die blauwkous?
+
+<p>&mdash;Wees nou niet zoo ouderwetsch. &apos;t Is geen blauwkous, zelfs niet in jouw beteekenis. &apos;t Is &apos;n verstandige, door en door degelijke vrouw....
+
+<p>&mdash;Ik kén die verstandige, degelijke vrouwen. Ze zijn niet te genieten.
+
+<p>&mdash;Met verstandig en degelijk bedoel ik hier, dat ze niet <corr sic=overdijft>overdrijft</corr>; niet met politie-agenten vecht, niet met &apos;n bel staat te luiden, tijdens &apos;n rede van haar tegenpartij, geen invallen doet in de Kamer....
+
+<p>&mdash;Ach, is &apos;t zoo&apos;n wonder?
+
+<p>&mdash;Ja, ze is kalm, bezadigd; feministe uit overtuiging, maar niet doordrijverig, niet lastig.... verstándig is ze, in één woord.
+
+<pb n=38 id=pb38><p>&mdash;Nou, goed, vraag jij d&apos;r dan?.... Als ze tenminste niet te oud is.... We mogen de &ldquo;Eva&apos;tjes&rdquo; niet afschrikken. Ons motto zal zijn: Alles wat liefelijk is, en wèl luidt.
+
+<p>&mdash;Dus nu zijn de voorloopige besprekingen afgeloopen?
+
+<p>&mdash;Ja, we hebben genoeg om Wouters lekker te maken. Wat zal hij opkijken!!
+
+<p>&mdash;Ik heb niet veel tijd meer, zie je, ik moet nog lunchen ook.
+
+<p>&mdash;Best, dan stappen we op. We treffen Wouters nog net; hij is altijd voor twaalf op zijn kantoor. Zeg, je moet niet te hooge eischen stellen, wat honorarium betreft, hoor? we mogen &apos;m niet afschrikken.
+
+<p>&mdash;Wat vraag jij dan?
+
+<p>&mdash;Ik ben redacteur.
+
+<p>&mdash;Maar wat vraag je?
+
+<pb n=39 id=pb39><p>&mdash;Drieduizend pop.
+
+<p>&mdash;Drieduizend!!
+
+<p>&mdash;Nou, tweeduizend dan. Maar minder geen cent.
+
+
+
+
+<div1 id=ch3 n=III>
+<head>III.</head>
+
+
+<p>Vol trots, vol zelf-bewondering keek Max rond in zijn keurig kantoor. Dat was toch maar <hi>zijn</hi> werk, zijn eigen werk, dat hij hier nu zoo prachtig zat. Ruim, luchtig, comfortabel....
+
+<p>Voor hem op zijn groot bureau ministre lagen een paar exemplaren van het weekblad &ldquo;Eva&rdquo;. Liefkoozend, bijna streelend, legde hij zijn hand er op. Werkelijkheid.... zijn droom werd nu toch waarachtige werkelijkheid....
+
+<p>Hij leunde welvoldaan in zijn bureaustoel. Hij bezat dan toch wel kracht en <pb n=40 id=pb40>doorzettingsvermogen, om, ondanks alle bezwaren en moeilijkheden, vol te houden, vól te houden, totdat het doel was bereikt. De zaken waren bij Wouters niet zoo glad van stapel geloopen, als hij had gemeend. Nee, die wou kapitaal hebben, notabene, een zekerheidsstelling, een waarborgsom,&mdash;en daar was hij niet af te brengen. Ja! als hij dát had.... dan kon hij, Max, tweeduizend gulden krijgen, dan zou hij goede honoraria betalen.... prijzen uitloven.... dan zou het weekblad er ook prachtig-verzorgd uitzien, zwaar papier.... nu en dan een illustratie op kunstdruk-papier... een opzettelijk-gesneden letter....
+
+<p>Maar waar dat kapitaal te vinden? En toch, zóó in het gezicht der veilige kust vergaan.... dat wilde Max niet. Nooit, onmogelijk, zou hij zich weer in zijn <pb n=41 id=pb41>hondsch leven, dat hij in gedachten al voor goed vaarwel had gezegd, kunnen schikken, nu hij zóó&apos;n ander bestaan had geënvisageerd. Op sommige oogenblikken was hij radeloos; moest zijn plan, waar toch een fortuin inzat, dan afstuiten op een oogenblikkelijk gebrek aan dat stomme, dat brute geld?.... Maar de andere jongelui, die allen gewonnen waren, en waarvan de een zich al enthousiaster betoonde dan de ander, konden het plan ook maar niet zoo plotseling weer zien opgegeven. En een hunner wist een nicht van hem zóolang te bewerken, totdat zij toegaf, en zich aansprakelijk wilde stellen als borg.
+
+<p>Nu waren zij gered, en met spoed werden de toebereidselen gemaakt. Max drong de omstandigheden met een koortsachtigen ijver voort, totdat hij wás, waar hij wezen wou.
+
+<pb n=42 id=pb42><p>Een &ldquo;nette&rdquo; verdieping, zooals hij dat had gewenscht, was ingericht als kantoor voor het weekblad &ldquo;Eva&rdquo;. Hij had de voorkamer, die uitzag in de Heemskerckstraat, als particulier kantoor; eenvoudig was de kamer gemeubeld, maar juist volgens zijn genoegen; met een breede schrijftafel bij het eene raam, een tafel in het midden, overdekt met boeken en papieren, een paar fauteuils voor de bezoekers,&mdash;bezoeksters,&mdash;en een groote boekenkast aan den wand. Verder had hij gezorgd voor wat mooie groene planten, en voor een paar kleine aquarellen en eenvoudig-omlijste etsen aan de met effen donkerrood behangen wanden. Een paar stoelen, een boekendrager, een rek met een encyclopedie en dictionnaires, en naast zich een klein, tweebladig vierkant tafeltje.
+
+<pb n=43 id=pb43><p>Eenvoudig genoeg,&mdash;maar het had hem nog heel wat hoofdbreken gekost, om het zoover te krijgen. Want daar hij geen cent fortuin bezat, moest alles hem op afrekening worden gegeven, en het duurde lang, en kostte veel moeite, eer hij een leverancier daartoe bereid had gevonden. Ze hadden meestal zóoveel noten op hun zang, betrachtten zóoveel voorzichtigheid, dat hij wel eens woedend had uitgeroepen: waarvoor ze hem dan wel aanzagen? En ja waar zagen ze hem voor aan? Wel, voor wat hij toen nog was: een klerkje, werkzaam in een kleine zaak....
+
+<p>Enfin, eindelijk was hij dan toch geslaagd. En hoe! Tevreden was hij, over- en over- en over-tevreden. Het gaf wel een air van degelijkheid, deze sobere eenvoud, dat kon niet anders dan een goeden indruk maken.
+
+<pb n=44 id=pb44><p>In het kabinet vóor zat Robert, als zijn particuliere secretaris. Dat wil zeggen, hij zat er nooit, want zijn journalistieke baantje had hij, ondanks al zijn, Max&apos;, overhalingen, er niet aan willen geven. Later misschien.... nu vond hij de zaak nog te precair. Precair! verbeeld je, nu alles zóó prachtig liep: vierhonderd drie en tachtig <corr sic="abonnés">abonnées</corr>, nog vóor het verschijnen van het eerste nummer! Enfin, hij zat dus voor den vorm in dat kabinet, maar eigenlijk stond er alleen een schrijfmachine.
+
+<p>Veine! veine! Het geluk dient den stoutmoedige. Het prospectus was inderdaad practisch en pakkend gesteld. En zijn portret.... nu hij mocht dan ijdel wezen, goed! maar zijn portret had het hem dan toch maar gedaan. Hoeveel briefjes had hij niet ontvangen aan zijn persoonlijk <pb n=45 id=pb45>adres: dat die en die zich zoo graag zou abonneeren.... in de hoop natuurlijk een antwoordje van Hem (met een hoofdletter) terug te ontvangen. In het begin had hij dat dan ook trouw gedaan,&mdash;maar toen de toeloop te groot werd, moest zijn particuliere secretaris er voor opdraaien, alias de schrijfmachine. Leuk, leuk, typisch, pyramidaal, had hij zich er boven-op gewerkt!
+
+<p>Vanavond zou er een vergadering zijn van de redactie en medewerkers. Gezellig, wat? zoo&apos;n staf om je heen te hebben, die je drillen en bemeesteren kon. En ze luisterden naar hem; natuurlijk! sinds hij bewezen had, zoo uitstekend de zaken in te zien!
+
+
+
+
+<div1 id=ch4 n=IV>
+<head>IV.</head>
+
+
+<p>Wouters, de uitgever, wilde nu en dan een woordje in het midden brengen, maar <pb n=46 id=pb46>hij werd dadelijk door de rumoerige jongelui overschreeuwd. Wat! wou <hi>hij</hi> nu nog spreken van risico! van voorzichtigheid! van niet te veel wagen! Dankbaar moest hij wezen, in zoo&apos;n prachtige zaak te zijn gehaald! Over een paar jaar een goudmijn! Tonnen waard! Prachtigste tijdschrift van Nederland!
+
+<p>Wouters, die eigenlijk zeer tevreden was over den loop der dingen, en in de toekomst nóg betere tijden voorzag, vond het tóch wel zaak de opgewondenheid der jongelui een beetje te remmen, die er van spraken een rivière van diamanten, als prijs in den liefdesbrieven-wedstrijd,&mdash;waarmee het eerste nummer verrijkt en de abonnées verrukt zouden worden,&mdash;uit te loven, of het zoo niets was. Hij zou daarom de vergadering tot het laatste toe blijven <pb n=47 id=pb47>bijwonen,&mdash;hoewel hij ongenoodigd verschenen was,&mdash;om al te groote roekeloosheid te voorkomen. Rustig zat hij op zijn stoel, en luisterde, en rookte de eene sigaar na de andere.
+
+<p>Max, wiens gezicht van geanimeerdheid blonk, zat in zijn bureaustoel de vergadering te presideeren. Hij had getracht alles naar orde en regel te doen gaan, maar met zoo&apos;n wilde bende als zijn medewerkers waren, lukte dat niet. Enfin, ook al goed. Hij had een gevoel, of hij wel óp kon vliegen in de lucht, of hij moest dansen, schreeuwen, tieren, kabaal maken.... of dat hij anders uit elkaar zou spatten van te zwaar geladen levenslust. Enfin, die drang naar licht en muziek en dol rumoer zou hij straks wel uitvieren,&mdash;straks, als zijn medewerkers en hij nog eens gingen na-fuiven in de stad,<pb n=48 id=pb48>&mdash;nu moest hij zijn kop bij elkaar houden, want de zaken dienden toch eerst te worden afgedaan.
+
+<p>De kleine bediende, netjes in een groompakje gestoken, bracht een pakje brieven binnen; het resultaat van de advertentie, die geregeld in de groote bladen stond.
+
+<p>&mdash;Hoera! gilde Kaatje, als een kind, en sloeg met zijn handen op de tafel. &apos;t Lijkt wel of de advertentie &apos;n huwelijksadvertentie was!
+
+<p>&mdash;Een, twee, drie.... tien, twaalf, dertien.... dertien abonnementen, waarachtig! riep Max.
+
+<p>Wouters verzamelde de brieven, en stak ze zorgvuldig bij elkaar in zijn zak. Hij knikte tevreden met het hoofd.
+
+<p>Sneeuw zat eindeloos tegen Robert Roodhaar te betoogen, dat hij, bij het beoordeelen <pb n=49 id=pb49>van de wedstrijd-brieven, dit principe zou voorstaan: de brief moest direct-aansprekend wezen, kort, <hi>niet</hi> literair, en <hi>niet</hi> geïnspireerd op de prachtige voorbeelden van Madame de Staël, Lady Montague, Madame de Sévigné. De korte, dikke Jan dischte eenige gepeperde anecdotes op over vrouwen, die in het eerste nummer moesten,&mdash;dat zou trekken, dat was nog iets anders, dan de water-en-meel-kost der andere damesblaadjes, en hij ging almaar voort:
+
+<p>&mdash;Nou, zeg, en toen komt die man met z&apos;n vrouw de kamers van die vriend bekijken, en die vrouw houdt zich heel goed, en ze doet ook, of ze alles voor de eerste maal ziet, en ze bewondert de schilderijen en zoo, maar opeens zegt ze argeloos: Hé, heb je die lamp nou op de guéridon gezet?
+
+<p>Karel, het drukke Kaatje, kronkelde zich <pb n=50 id=pb50>op zijn stoel van pret, en Jan begon alweer:
+
+<p>&mdash;D&apos;r was &apos;n meneer, en die zegt tegen &apos;n mevrouw van zijn kennis: Mevrouw, wanneer komt u nu m&apos;n nieuwe woning &apos;s bezien? En wat zegt zij? Zij zegt: dat zal niet gaan, want ik kan....
+
+<p>&mdash;Is &apos;t nou uit! donderde Max. Kunnen jullie nou voor den bliksem niet &apos;s &apos;n oogenblik je fatsoen houden! Straks, straks doen we wat we willen, maar nou bij de zaken zijn!
+
+<p>&mdash;Present, president! zei Ka, en zat netjes met zijn handen op de tafel.
+
+<p>&mdash;Ajasses, wat &apos;n kinderen. Jasses! had ik jullie maar thuis-gelaten!....
+
+<p>&mdash;Nou, begin jij nou niet zelf, kalmeerde Sneeuw. Laten we de zaken vlug afdoen. Noem op, Max, wat we nu voor &apos;t eerste nummer hebben.
+
+<p>&mdash;Stuk van mijn roman....
+
+<pb n=51 id=pb51><p>&mdash;Hoe heet die?
+
+<p>&mdash;Eva, natuurlijk.
+
+<p>&mdash;Vind je dat aan te raden? &apos;t Blad heet Eva, je roman heet Eva.... ze zullen &apos;t door elkaar halen.
+
+<p>&mdash;Dat&apos;s niks, hoe meer d&apos;r gekletst wordt over Eva, hoe beter. En ik wil de roman zoo noemen, dus ik doe &apos;t.
+
+<p>&mdash;Ja, jij doet alles maar, wat je wil.
+
+<p>&mdash;Zoo, is dat soms niet m&apos;n recht. Ben ik niet....
+
+<p>&mdash;Je zou niks zonder onze hulp....
+
+<p>&mdash;Beginnen jullie nóu al herrie te schoppen? vroeg Robert.
+
+<p>&mdash;Laat ze maar, zei Sneeuw gelaten. D&apos;r komt altijd herrie in redacties, dat&apos;s &apos;n gewoon natuurverschijnsel.
+
+<p>&mdash;Nou, ik schrijf op, vertelde de secretaris. Brok roman. Hoeveel kolom?
+
+<pb n=52 id=pb52><p>&mdash;Ik denk.... vijf of zes. Maar eerst &apos;t motto. Ik heb &apos;n prachtig motto: &apos;n vers van Plasschaert: Eva.
+
+
+<lg type=Group>
+    <l>Wie brak de vrucht?
+    <l>De nacht was vol-omloofd van weeningen.
+</lg>
+
+<lg>
+    <l>En veile vlammen sprongen op,
+    <l>En gele sterren dansten ijl,
+    <l>Adam&apos;s lijf schemerde anders rood,
+    <l>Ik hoorde woorden warrig&mdash;
+    <l>En englen vloden.
+    <l>Englen vloden met roode vlerken,
+    <l>Vleugels stoven als rose blaeren,
+    <l>De nacht zwol open tot een groot, rood hart,
+    <l>&mdash;Hij was mijn god, mijn heer.
+</lg>
+
+
+<p>Daarna:
+
+
+<lg>
+    <l>Ik ben nu heerlijkst, meesteres,
+    <l>Ik draag gezang en tranen,
+    <l>Een hemel en een vlam,
+    <l>En een schroei en water,
+    <l>Ik draag een, die gekruist des daags
+    <l>Aan Juda&apos;s groenend hout&mdash;
+    <l>Ziet, ziet, ik dans....
+</lg>
+
+
+<pb n=53 id=pb53><p>&mdash;Prachtig! riep Sneeuw. Dat vóorgezicht van haar, dat plotseling afgebroken wordt door de uiting van haar overstortende vreugde: Ziet, ziet, ik dans!....
+
+<p>&mdash;Ik protesteer tegen dat: Ik ben nu heerlijkst, meesteres! riep Ka. De vrouw is nooit meesteres over de man geweest!
+
+<p>&mdash;Wacht maar, tot je verliefd wordt, dreigde Robert, die zuchtte onder de luimen van een capricieuse jonge dame.
+
+<p>&mdash;Word <hi>niet</hi> verliefd, nooit, raadde Max. Laten ze op jóu verliefd worden.
+
+<p>&mdash;Je kan niet buiten verliefd zijn, wist Jan. En d&apos;r is geen gevaar bij, zoolang je &apos;t op &apos;n heeleboel tegelijk ben.
+
+<p>&mdash;Blijft de voorraad copie hierbij? dat gaat goed zoo!
+
+<p>&mdash;Nou ik heb immers nog m&apos;n essay over de vrouw.... zei Sneeuw, en dan <pb n=54 id=pb54>moeten de ingekomen antwoorden op de prijsvraag worden vermeld.
+
+<p>&mdash;En Robert heeft &apos;n novelle?
+
+<p>&mdash;Ja: Winternacht.
+
+<p>&mdash;En jij, Ka?
+
+<p>&mdash;Moet ik óok wat doen?
+
+<p>&mdash;Ja.
+
+<p>&mdash;Ka en ik, zei Jan, geven humoristische dialogen.
+
+<p>&mdash;Zoo? zei Karel.
+
+<p>&mdash;Ja, zei Jan.
+
+<p>&mdash;Nou, mij goed!
+
+<p>&mdash;Dan hebben we dat lange artikel van Eleonore van Aalst, zei Max. &apos;n Prachtig stuk.
+
+<p>&mdash;Heb je &apos;t gelezen?
+
+<p>&mdash;Nee, maar dat begrijp ik wel, dat &apos;t mooi moet zijn.
+
+<p>&mdash;Voor de berichten over vrouwen in &apos;t <pb n=55 id=pb55>binnen- en buitenland kan jij &apos;t beste zorgen, Roodhaar, jij knipt maar uit je courant.
+
+<p>&mdash;Jawel, daar zal ik wel voor zorgen.
+
+<p>&mdash;Hebben we dan genoeg?
+
+<p>&mdash;Nee, hoor &apos;s, zei Sneeuw, we moeten d&apos;r nog wat bij hebben, wat aparts.... iets, dat niet iedereen heeft.... Bijvoorbeeld.... bijvoorbeeld.... vrouwen-portretten....
+
+<p>&mdash;Portretten van mooie dames en demi-dames?
+
+<p>&mdash;Ach, klets niet, beschrijvingen van vrouwen, bekende vrouwen, heel kort, &apos;n karakteristiek in enkele woorden.
+
+<p>&mdash;Heel goed, heel goed, riep Jan. Dat doen we.
+
+<p>&mdash;Zou je mij, als redacteur óok in die zaak willen kennen? vroeg Max hautain.
+
+<pb n=56 id=pb56><p>&mdash;Heb je d&apos;r dan wat op tegen?
+
+<p>&mdash;Op tegen, nee.
+
+<p>&mdash;Nou dan?
+
+<p>&mdash;Alles moet behoorlijk aan <hi>mij</hi> worden voorgelegd.
+
+<p>&mdash;Hoor die!
+
+<p>&mdash;Och, geef &apos;m z&apos;n zin maar, zei Ka goedaardig. Je weet: kinderen en gekken moeten worden toegegeven.
+
+<p>&mdash;Portretten van mejuffrouw Kruis, de eenige Nederlandsche sulkey-rijdster of van Carmen Bereira, de eenige Spaansche stieren vechtster?....
+
+<p>&mdash;Is &apos;t gedaan met die flauwiteit, met die verdomde lafheid! schreeuwde Max. Als jullie niet anders kunnen doen, dan rukken jullie maar uit, hoor!
+
+<p>&mdash;Zeg, zoo moet je maar beginnen!
+
+<p>&mdash;Ja, zoo zal je wel hulp krijgen!
+
+<pb n=57 id=pb57><p>&mdash;Net, of je &apos;t alleen af kan!
+
+<p>Jan leunde zich nog eens wat beter in zijn stoel, en sloeg de armen over elkaar.
+
+<p>&mdash;Gooi je eigen glazen niet in, vermaande hij bedaard. Hier zit ik, ik kan niet anders, God helpe mij, amen.
+
+<p>Max bedaarde. Zijn woede was veel meer innerlijke opwinding, dan werkelijke boosheid. Zijn overbruisende vreugde móest zich in geweld uiten, op welke wijze dan ook. Hij was als een veer, die lang met zwaren druk naar beneden gehouden is, en plotseling met volle kracht omhoog schiet. De sombere, eentonige, duldelooze tijd, die achter hem lag, en die nu zoo plotseling was overgegaan in een toekomst vol prachtige vooruitzichten, deed zijn nawerking op hem nog dikwijls gevoelen, hij had uit die periode van geestelijke lusteloosheid, van lichamelijke <pb n=58 id=pb58>gedruktheid een prikkelbaarheid overgehouden, een nervositeit, die hem soms deed uitbarsten in vlagen van onredelijken toorn, waarvan hij toch niets meende; buien, waarin hij dingen zeide, waarover hij zich dikwijls verbaasde.
+
+<p>&mdash;Vooruit, bende idioten! zei hij, vooruit maar weer.
+
+<p>&mdash;O, zoo, zei Jan.
+
+<p>&mdash;Nou, die portretten, wie zal dat op zich nemen....
+
+<p>&mdash;Mannen, nee, ik heb er genoeg van, viel Max opeens uit. M&apos;n kop staat d&apos;r niet naar. Ik ben niet rustig genoeg. Leg al jullie plannen maar bij mij neer, ik zal ze wel uitzoeken, en verwerken. Ik zal ook &apos;t nummer wel samenstellen. Ik kan nou niet meer denken.... M&apos;n hersens branden....
+
+<p>&mdash;Dan fùiven we de avond maar verder uit!
+
+<pb n=59 id=pb59><p>&mdash;Ja! riep Max.
+
+<p>Een heete lust naar licht, naar dolle muziek, naar razend rumoer drong gloeiend door zijn bloed. Hij hongerde naar feestelijk genot, zijn hoofd hongerde, zijn heele lichaam hongerde, na zóo lang te hebben ontbeerd. Ziedend, schuimend, wou zijn blijdschap zich een uitweg banen.... zwelgen wou hij in een wilden, driftigen roes.... hij móest zijn vreugde uitvieren, hij móest!....
+
+<p>&mdash;Ja, maar, heeren, protesteerde Wouters, de uitgever. Daarvoor zijn we niet hier gekomen....
+
+<p>&mdash;Nee, nee, u hoeft ook niet mee te fuiven, stelde Jan hem gerust.
+
+<p>&mdash;Eerst zaken, eerst zaken.... Zaken zijn zaken....
+
+<p lang=fr>&mdash;Les affaires sont les affaires!
+
+<p>&mdash;Toe, heeren, laten we hier nu niet <pb n=60 id=pb60>als kwajongens tegenover elkander staan, &apos;t Eerste nummer dient nu vanavond in elkaar....
+
+<p>&mdash;Maak je niet bezorgd, oude heer, komt terecht, komt terecht, beloofde Max. Ik stel me d&apos;r aansprakelijk voor. Ik heb d&apos;r toch ook wel &apos;n beetje belang bij?
+
+<p>&mdash;Ja, maar, ik ben zoo bang....
+
+<p>&mdash;Waarvoor?
+
+<p>&mdash;Dat &apos;t op gekheid maken uitloopt. Ik zeg u, heeren, &apos;t moet ernst blijven, geen Witzblatt worden, of ik laat me d&apos;r niet mee in.
+
+<p>&mdash;Maar, man, hoe kom je dáár nou bij! &apos;t Is ons allemaal immers even phenomenale ernst!
+
+<p>&mdash;Jawel, jawel, maar....
+
+<p>Max klopte den uitgever vriendelijk op den schouder.
+
+<pb n=61 id=pb61><p>&mdash;Toe, vertrouw nou maar &apos;s op <hi>mij</hi>, he? Laad al uw zorgen op de hoofdredacteur.
+
+<p>Robert reciteerde uit zijn pas aangevangen epos: <hi>Hercules</hi>; Sneeuw schreef in zijn notitieboek eenige namen van vrouwen, die voor de &ldquo;portretten&rdquo; in aanmerking konden komen: Ka en Jan hielpen hem, en noemden namen van &ldquo;vermaarde&rdquo; vrouwen:
+
+<p>&mdash;Zeg, moet je die niet hebben: Politie-Jet? iedereen kent de naam, of Emma Elberfeld, van die hypnose-historie....
+
+<p>De uitgever zag wel, dat er vanavond niets meer van belang te verhandelen zou vallen. De &ldquo;heeren&rdquo; waren eigenlijk ook allen veel te jong, om aan het hoofd van zoo&apos;n onderneming te staan; als het maar goed ging, als het maar goed ging.... Ze waren waarachtig nog zoo speelsch als schooljongens.... Hij kon daar niets verder aan <pb n=62 id=pb62>doen. Gelukkig had hij zijn zekerheidsstelling. Als ze den boel in het honderd wilden laten loopen, moesten ze het zelf maar weten.
+
+<p>&mdash;Goeienavond dan, heeren, zei hij opstaande, alleen terug-gegroet door Max, die hem beleefd tot de deur uitgeleide deed.
+
+<p>&mdash;Ziezoo! riep Max. Nou zijn we onder ons en vrij. Gauw opgeruimd, en dan d&apos;r van door.
+
+<p>Hij greep bij handenvol de papieren van de tafel, en wierp ze ongeordend in een la van zijn bureau.
+
+<p>&mdash;Waar gaan we nou naar toe?
+
+<p>&mdash;Naar Maxim?
+
+<p>&mdash;Naar de Deli-club op de Harstenhoekweg?
+
+<p>&mdash;Daar is &apos;t nog te vroeg voor.
+
+<p>&mdash;Nou, dan gaan we eerst naar Central, <pb n=63 id=pb63>en zitten daar, hè, tot &apos;n uur of elf. Hoe laat is &apos;t nou? Half tien.
+
+<p>De jongelui namen hun stokken en hoeden, terwijl Max de hand aan de gaskraan hield.
+
+<p>&mdash;Is je kantoor gesloten, Roodhaar.
+
+<p>&mdash;Ja!
+
+<p>&mdash;Ja, goed, vooruit dan maar, lui.
+
+<p>Achter elkander stommelden ze de trappen af, en het kinderachtig Kaatje zong:
+
+
+<lg>
+    <l>Dat gaat naar Leiden toe,
+    <l>Naar de studenten toe,
+    <l>Daar maak je pret, en hoe....!
+</lg>
+
+
+
+
+
+<div1 id=ch5 n=V>
+<head>V.</head>
+
+
+<p>&mdash;Dus u is tevreden? juffrouw van Velsen?
+
+<p>&mdash;O, já, meneer van den Heuvel!
+
+<p>Blozend zat het meisje bij Max op zijn kantoor. Zij was het, die den prijs van <pb n=64 id=pb64>den liefdesbrieven-wedstrijd: een gouden ketting met een hanger in den vorm van een hart er aan, had gewonnen.
+
+<p>&mdash;Nu u er toch is, kon ik natuurlijk niet laten, &apos;t u te vertellen, maar u zegt er niets van, juffrouw van Velsen, &apos;t wordt, officiëel pas overmorgen bekend.
+
+<p>Wat had dat kind &apos;n typische oogen, en hoe naïef toonde ze hem, dat zij tot over de ooren.... Goed zoo! goed zoo! Allemaal dol op hem, niemand ontkwam daaraan,&mdash;en hij, rustig blijvende, zeker van zichzelf en van zijn bende aanbidsters, elk hetzelfde gevende, niemand jaloersch makende,&mdash;allen doende gelooven, dat hij óók.... en toch vrij blijvende, vrij! vrij!
+
+<p>Maar dit meiske had wel iets heel charmeerends over zich: zóo lief was zij, dat hij het volstrekt niet van zichzelven begreep, <pb n=65 id=pb65>hoe hij voor haar bekoorlijkheden zoo ongevoelig kon blijven. Maar neen, een, die zóo duidelijk bemerken liet, hoe zij voor hem voelde, zoo een was niets voor hem. Hij moest er een hebben, die weerstand bood, die hij veroveren kon, die zijn wil en zijn kracht op de proef stelde,&mdash;die begon met te trachten zijn meesteresse te wezen, en van wie <hi>hij</hi> toch ten slotte de meester zou zijn....
+
+<p>&mdash;Ik kan &apos;t me nog niet begrijpen, zei &apos;t meisje, en bekeek de ketting en het hart, die in haar hand lagen.
+
+<p>&mdash;En ziet u, op &apos;t hart wordt dan &apos;t een of ander gegraveerd, zei Max en legde zijn eene hand onder de hare, terwijl hij met de andere het hart opnam.
+
+<p>Het meisje bloosde diep, maar trok haar hand niet terug.
+
+<pb n=66 id=pb66><p>&mdash;Wat? vroeg zij, verward.
+
+<p>&mdash;O, wat u wilt, uw initialen, of.... Mag &apos;k u de ketting &apos;s omdoen?
+
+<p>&mdash;U? vroeg zij verlegen, zoo innig naar hem opkijkende, dat hij lust kreeg haar te zoenen. Maar zóo ver was hij nog niet....
+
+<p>&mdash;Ja. Mag ik?
+
+<p>Zij boog het hoofd, en hij trachtte de ketting in het slot te knippen, maar het ging natuurlijk niet gauw. Haar hals was veel te zacht en te blank.... En opeens, terwijl het slot vast-schoot, bukte hij zich, en drukte haar een kus op den hals.
+
+<p>Zij richtte zich snel op; hoog-rood, met neergeslagen oogen, bleef zij zwijgend staan. En hij, op haar neer-ziende, dacht: Wat is ze nu gelukkig, o, wat is dat kind nu gelukkig.... Hij zag haar snelle ademhalen, haar zenuwachtig zich vasthouden met de <pb n=67 id=pb67>hand aan haar stoel, en hij genoot. Maar toen zij niets zeide, lichtte hij even haar kin op:
+
+<p>&mdash;Ben je boos?
+
+<p>Zij antwoordde niet, en hij, ofschoon hij het onverstandig vond, nam haar hoofd in zijn handen, en zoende haar op den mond.
+
+<p>Zij bleef zwijgen.... aldoor zwijgen.... en zij keek hem niet aan.... totdat hij opeens begreep, dat zij iets van hem verwachtte: een liefdesverklaring.... een huwelijksaanzoek.... en hij zich pijnlijk beklemd ging voelen. Wat drommel! dat meisje had zich voor hem &ldquo;hingestellt&rdquo;: &ldquo;greif zu!&rdquo; En hij hàd toe-gegrepen natuurlijk!
+
+<p>Hij was werkelijk een oogenblik zijn contenance kwijt. Hij vond haar nu opeens niet zoo aardig meer, neen, zij was eigenlijk onbeduidend, een echt kind....
+
+<p>Een klop op de deur schrikte hen beiden op.
+
+<pb n=68 id=pb68><p>&mdash;Ja! riep hij dadelijk.
+
+<p>&mdash;Meneer, zei de groom, daar is juffrouw de Bruin....
+
+<p>Goddank, dacht Max.
+
+<p>&mdash;Laat juffrouw de Bruin in &apos;t achterkantoor, en verzoek haar even te wachten.
+
+<p><hi>Even te wachten</hi>, had hij gezegd. Hij stuurde die juffrouw niet weg, hij zei niet, dat hij op &apos;t oogenblik niet kon ontvangen.... Ja! dan kon zij nu óok wel weg-gaan.... dacht het meisje, met een vreemd gevoel van berusting en droefheid over zich, en wendde zich af.
+
+<p>&mdash;Gáat u nu? Nu ziet u &apos;s, hoe druk ik &apos;t heb. Nooit rust, nooit kan ik &apos;s van aangenaam gezelschap....
+
+<p>Maar zij trok haar hand, die hij genomen had, weg uit de zijne, wijl hij die aldoor vast bleef houden.
+
+<pb n=69 id=pb69><p>&mdash;O, ja, zei ze. De ketting, die mag &apos;k nu nog niet hebben....
+
+<p>Snel maakte zij de ketting los, en legde haar in het étui. Toen keek zij om naar haar parasol.
+
+<p>&mdash;Uw parasol? die is hier, zei Max, haar volgende tot de deur. Weer nam hij haar hand, en trachtte haar diep in de oogen te kijken, maar zij ging heen, met een koelen groet:
+
+<p>&mdash;Meneer van den Heuvel....
+
+<p>Max sloot de deur achter haar, en bleef even staan in gedachten. Spirit, temperament zat er toch wel in dat kind, wat hield ze zich goed.... Flink zoo, zóo mocht hij het! Enfin, hij zag haar nog wel eens terug....
+
+<p>Hij sloot het étui met de ketting weg in zijn bureau, en ging, nog wat verstrooid, naar de porte-brisée, die hij open schoof.
+
+<pb n=70 id=pb70><p>&mdash;Juffrouw de Bruin!
+
+<p>&mdash;Meneer Max van den Heuvel....
+
+<p>Juffrouw de Bruin was, helaas, een oude jongejuffrouw, en, helaas, óok al op hem verliefd. Eerst uit de grap had hij haar wat aangemoedigd, maar nu viel zij hem voortdurend lastig, en was zij hem niet zoo zeer meer tot amusement als wel tot verveling geworden....
+
+<p>&mdash;U had.... dames-bezoek.... meneer Max?
+
+<p>&mdash;Ja, ja, juffrouw de Bruin! dacht u, dat ù alleen me &apos;t voorrecht van uw gezelschap gunde?
+
+<p>&mdash;Niet plagen, meneer Max! zuchtte de oude juffrouw coquet.
+
+<p>&mdash;Kunt u daar niet tegen? U weet anders wel:....
+
+<p>Was sich liebt, neckt sich, had hij willen <pb n=71 id=pb71>zeggen, en op een anderen keer hád hij dat ook zeker gedaan. Maar hij durfde nu niet goed. Er moest nu eens een scène op volgen, tegenovergesteld aan die, welke hij zoo juist had beleefd....
+
+<p>.... dat ik &apos;t zoo kwaad niet bedoel, maakte hij zijn zin tammetjes af.
+
+<p>&mdash;Meent u &apos;t goed met me? Heusch? nu dan moest u toch &apos;s die cyclus verzen plaatsen, die er al zoo lang van me ligt....
+
+<p>&mdash;Ja, uw verzen! Max wist, dat hij nog een bijdrage van haar had, maar hij was, over het aannemen daarvan, zóo door de andere jongelui gekapitteld, dat hij die in een la had gesmeten, met de bedoeling haar heel laat, en nog beter nooit dan laat, te plaatsen.
+
+<p>&mdash;Kijk u &apos;s, juffrouw de Bruin, we hebben zóoveel copie....
+
+<pb n=72 id=pb72><p>&mdash;Ook zooveel, die al van de oprichting af heeft gewacht?
+
+<p>&mdash;O, ja! en langer! Ik had al &apos;n voorraad, eer we begonnen!
+
+<p>&mdash;Kom, meneer Max, zei de oude jonge dame, en greep zijn hand, doet u &apos;t nu &apos;s om <hi>mij</hi> pleizier te doen, ja? Plaatst u ze nu in &apos;t volgend nummer....
+
+<p>&mdash;Dat van overmorgen is al klaar, schrikte Max.
+
+<p>&mdash;Ja, jawel, dat begrijp ik, maar &apos;t daarop volgende, bedoel ik. Toe, meneer Max, en zij drukte zijn hand, weet u, de volgende week ben ik.... jarig!
+
+<p>&mdash;Zoo, zoo!
+
+<p>&mdash;Ja.... en.... een <hi>Eva</hi> met <hi>mijn</hi> verzen d&apos;r in, zou m&apos;n liefste cadeau zijn op die dag.
+
+<p>&mdash;Zullen we u dat pleizier dan maar doen?
+
+<pb n=73 id=pb73><p>&mdash;Alstublieft, hè, ja. Ik dank u wel, hoor?
+
+<p>En juffrouw de Bruin drukte dankbaar haar lippen op de hand, die zij nog altijd in de hare hield.
+
+<p>Jong of oud, dacht Max, allemaal koekoek-eenzang. Allemaal zijn ze Eva&apos;tjes, de een meer, de ander minder, maar <hi>allemaal</hi> trachten ze er voor te spelen. Soms is &apos;t komisch, soms aardig, soms pijnlijk, soms embêtant.... Maar kom! wat hoefde hij zijn stemming te laten bederven door het voorgevallene met dat kind? Zij zou wel wijzer zijn, en zich niets verbeelden, en nog wel eens terug-komen, en zij zouden goede vrienden zijn.... Kom, hij was vandaag in zoo&apos;n goed humeur: zou hij deze dame óok eens een zoen geven? en haar daardoor brengen tot in de hoogste hemelen? Nú dweepte zij met hem, dán zou zij hem <pb n=74 id=pb74>aanbidden met al den gloed eener.... laatste liefde....
+
+<p>Zijn overmoed vermeesterde hem; hij boog naar haar toe:
+
+<p>&mdash;Is u nu tevreden?
+
+<p>Der juffrouw hoofd zonk wat neer, haar lippen openden zich, haar oogen sloten zich.... Zou hij &apos;t meenen?.... Zou hij &apos;t.... werkelijk meenen?....
+
+<p>Hij strekte zijn hand uit naar de hare, die hem al tegemoet kwam.... En in een oogenblik, hij wist werkelijk zelf niet, hoe het gebeurde, lag zij aan zijn borst, en klemde haar armen om zijn hals, en zuchtte in verrukking:
+
+<p>&mdash;O, Maxie.... o, Maxie....
+
+<p>Hij kreeg een aandrang haar terug te zetten op haar stoel, en haar te bedaren met een:
+
+<pb n=75 id=pb75><p>&mdash;Maar, juffrouw de Bruin! maar zij zou hem niet los-gelaten hebben, zij was zóo blijkbaar geheel weg in weelde, dat zij niet wist, wat zij deed. Wie had ooit gedacht, dat die magere armen zoo&apos;n kracht konden hebben.... dat er zoo&apos;n hartstocht zat in dat bleeke, spichtige meisjeslijf.... Enfin, toch wèl een satisfactie, een mede-schepsel zóo te kunnen bezaligen.... Wat een mooi, literair woord bedenk ik daar, dacht hij, in mijn wel wat moeilijke positie.... Want juffrouw de Bruin hing letterlijk aan zijn hals, en maakte het hem benauwd genoeg. Wat drommel, nu is het voldoende, vond hij, en richtte zich krachtig op.... met moeite bedwong hij een hartelijk: oef!
+
+<p>Juffrouw de Bruin lag nu voor hem geknield; zij keek naar hem op, met zwemmende oogen, en hij kreeg lust, haar beschermend <pb n=76 id=pb76>toe te knikken, en te vragen als aan een kind:
+
+<p>&mdash;Ben je nu blij, ja?
+
+<p>Maar juffrouw de Bruin was niet alleen hartstochtelijk, zij was ook practisch. Zelfs in deze verheven oogenblikken verloor zij niet haar tegenwoordigheid van geest.
+
+<p>&mdash;En wanneer kom je nou bij m&apos;n Pa?
+
+<p>&mdash;Hè?
+
+<p>&mdash;Om aanzoek te doen?
+
+<p>Die windt er geen doekjes om, dacht Max, maar ik heb wel voor heetere vuren gestaan....
+
+<p>&mdash;O, kindlief, daar heb ik geen tijd voor....
+
+<p>&mdash;Nou, ja, vandaag... maar dan morgen?
+
+<p>&mdash;Ik heb in de eerste weken zeker geen tijd. Maar wat bedoel je eigenlijk? Wou je...
+
+<p>Dat mooie en lieve, dat tusschen ons is, <pb n=77 id=pb77>wou hij zeggen, maar zóo ver kon hij de comedie toch niet drijven. Wat zou hij in godsnaam verzinnen....
+
+<p>&mdash;.... wou je dat intieme, gezellige nù al banaliseeren....
+
+<p>&mdash;O! begrijp je dan niet! riep zij, en sloeg even haar armen in de lucht.
+
+<p>Hij kreeg spijt maar niet dadelijk het zuivere standpunt te hebben ingenomen, inplaats van de uitvlucht te bezigen: ik heb geen tijd.... Zou hij het nóg niet kunnen doen?
+
+<p>&mdash;Hoor &apos;s, zei hij, sta nu op... juffrouw...
+
+<p>&mdash;Ik heet.... Eva, glimlachte zij lief.
+
+<p>&mdash;Eva?!
+
+<p>&mdash;Nou ja, Everdina, maar <hi>jij</hi> moet me Eva noemen.
+
+<p>O, god, ach, god, dacht hij, waar heb ik me in begeven!
+
+<pb n=78 id=pb78><p>&mdash;Kom, sta nou op!
+
+<p>&mdash;O, Maxie! verweet zij.
+
+<p>&mdash;Ja, maar, d&apos;r kan elk oogenblik iemand binnen komen.... En, ik vind, je moest nu maar gaan.
+
+<p>&mdash;Gaan? vroeg zij teleurgesteld. Maar begrijpende, dat zij door aandringen niets zou winnen, integendeel hem ongeduldig maken, stond zij gewillig op.
+
+<p>&mdash;Lieve, lieve Max, zei ze, en stak hem beide handen toe. Je hebt me zóó gelukkig gemaakt....
+
+<p>&mdash;Dat doet me pleizier.
+
+<p>&mdash;En jij, Maxie.... vleide zij. Ben jij nu óok gelukkig?....
+
+<p>&mdash;Ik? Ik ben altijd gelukkig!
+
+<p>&mdash;Hè, wat is dat prettig om te hooren. Nu dan, moet ik gaan? Dag Max.... dag Max.... Max....
+
+<pb n=79 id=pb79><p>Zij zoende hem hevig, onbedwongen, en hij liet het toe, blij, dat zij zoo gemakkelijk was weg te krijgen. Hij was er geen oogenblik bang voor, dat dit avontuur ernstige gevolgen zou hebben: daar zou hij wel voor zorgen.
+
+<p>&mdash;Adieu, Eva.
+
+<p>&mdash;Wat zeg je dat lief: Eva.... maar je moet niet &ldquo;adieu&rdquo; zeggen.... zeg &apos;s: tot héél gauw weerziens!
+
+<p>Schertsend stoof hij op haar af, om haar bij een arm de deur uit te zetten, maar zij verdween al, met nog een kinderlijk lachend: Dag!
+
+<p>Max wist niet, of hij dit voorval nu amusant vond of niet. Als hij het een ander hoorde vertellen, zou hij er zich een stuip om gelachen hebben, maar om zélf in het geval te verkeeren?....
+
+<p>Enfin. Enfin. Maar niet meer aan denken.
+
+<pb n=80 id=pb80><p>Hij had de gelukkige gewoonte zich nooit noodelooze zorgen te maken. En als iets op het oogenblik niet te veranderen viel, dan berustte hij maar: alles zou toch wel weer terecht komen, gaf hem zijn kracht-gevend optimisme in.
+
+<p>Daar was de post. Zou die hem weer een brief brengen van....
+
+<p>Waarachtig, waarachtig. Hij herkende al van ver het groote, langwerpig vierkante couvert in de handen van den groom.
+
+<p>&mdash;Geef hier!
+
+<p>Haastig sneed hij de enveloppe open, en las:
+
+<p>Wie is dat toch! dacht hij. Zij kent me goed.... Zij was gisteren óok bij de van Baerle&apos;s.... Mientje? nee. Clara, nee, natuurlijk. Bonnie, ach, wel nee, hoe kwam hij er bij....
+
+<p>Het was nu al een poosje, dat hij geregeld <pb n=81 id=pb81>brieven kreeg van dezelfde hand: innige brieven, geestige brieven, dikwijls vermanende, maar ook soms gepassioneerde, die hem dol maakten van ongeduld, omdat hij de schrijfster niet kende.
+
+<p><hi>Eva</hi> teekende zij zich. En hoewel hij wist, dat alle auteurs wel eens dergelijke brieven kregen: mijn hemel, hoeveel romans waren er al op dat thema gebouwd!&mdash;irriteerde het hem toch, dat hij er maar niet achter kon komen, <hi>wie</hi> de onbekende was, terwijl zij hem wél kende....
+
+<p>Veel meer dan over de vriendinnetjes, die hem opzochten op zijn kantoor, zijn wekelijksche tea&apos;s bijwoonden, met hem flirtten op de meest gewaagde wijze,&mdash;dacht hij over <hi>Eva</hi>. Mooi was zij niet, had zij hem geschreven, maar dat hoefde de waarheid toch niet te wezen; dat zei ze <pb n=82 id=pb82>mogelijk maar, om hem bij een eventueele ontmoeting niet tegen te vallen. Enfin. Typisch was ze in elk geval: wat durfde ze hem veel te zeggen....:
+
+<milestone unit=tb>
+
+<p>Als &apos;k niet zooveel van je hield, lieve jongen, dan, heusch, zou &apos;k me niet zoo om je bekommeren. Maar zooals jij doet, is &apos;t niet goed, Max. Je bent ál te flirtziek, al te oppervlakkig in die dingen, die toch au fond zoo ernstig zijn. Denk niet, dat &apos;k je bekeeren wil tot &apos;n asceet, want ik vind asceten ónnatuurlijke, tégennatuurlijke wezens, niet waard in de warme pracht van de schepping te leven. Neen! maar ik vraag je: is het mannelijk, is het goed, om te trachten zoo alle vrouwen aan je te binden, die je toch in je binnenste niet acht,&mdash;zelfs uitlacht, misschien? Al geef <pb n=83 id=pb83>je er nog niet eens om, dat je die meisjes ongelukkig maakt, door haar illusies op te dringen, die nooit verwerkelijkt worden, dan moest je tóch zoo niet doen voor jezelf. Word jij er grooter, hooger, beter, waardiger door, als je wéér een meisje verliefd op je hebt gemaakt....
+
+<p>&mdash;Ben jij soms jaloersch, Eva?
+
+<p>Ik heb eens een jongen gekend....
+
+<p>&mdash;Zoo, wil je nu <hi>mij</hi> jaloersch maken?
+
+<p>.... die wel iets op jou leek in je omgang met vrouwen. Maar dat hij altijd vol attenties voor haar was, en belang stelde in alles wat haar betrof, kwam uit een aangeboren hoffelijkheid, een nobele ridderlijkheid.... terwijl jij, Max, alleen zoo doet, om je kleine ijdelheid te bevredigen.
+
+<pb n=84 id=pb84><p>&mdash;Ze durft, hoor. Ze durft.
+
+<p>Wat zijn die gemakkelijke veroveringen nu voor een plezier, wat voor een satisfactie geven zij je. Als je nu zooveel moeite deed, voor een vrouw, die je liefhadt, die je winnen wou....
+
+<p>&mdash;Daar heeft ze gelijk in; ik heb dat zelf immers òok zoo juist zitten bedenken?....
+
+<p>.... maar zooveel van je goede gaven te verspillen, zonder dat je er zelf éénig voordeel van hebt, dat kan &apos;k van iemand zooals jij niet begrijpen. (Dit is hálf een compliment: ik vind het zonde voor je,&mdash;en hálf het tegenovergestelde: iemand, die zoo zelfzuchtig is, als jij....)
+
+<p>&mdash;Leg maar neer, dank je.
+
+<p>.... Max, lieve jongen, ik ben zoo blij, <pb n=85 id=pb85>dat je niet weet, wie ik ben. Oog in oog zou ik nooit zoo tegen je durven spreken, als ik nu aan je schrijf.
+
+<p>&mdash;Nee, dat is te begrijpen, voor den drommel.
+
+<p>Maar ik werk aan je verbetering, ik heb &apos;t me zelf tot een plicht gesteld, van je terecht te brengen, wat er nog terecht van je te brengen valt.
+
+<p>&mdash;Ha, ha, hij is goed! hij is goed!
+
+<p>.... Ach, jongen, als ik je zoo zie, met je vroolijkheid, en ik hoor je lachen, dan.... word ik zóo verteederd, dat ik je alles vergeef. Maar je hebt zoo&apos;n onuitstaanbaar over-overmoedig gezicht, dat de uitdrukking daarvan noodzakelijk wat veranderen moet.
+
+<p>Ja, nu begin je me te vervelen. Dat <pb n=86 id=pb86>gepreek, dat gezanik. Dat sla ik over. Komt er nu niets meer, niets liefs? niets verliefds?
+
+<p>Hij keek haastig bij de onderteekening, en ja, daar las hij toch nog de woorden, die zijn &ldquo;kleine ijdelheid&rdquo; verlangde:
+
+<p>Ik houd van je, ik heb je lief.
+
+<p>Max, ja, ik heb je lief.... O, &apos;t is een heerlijkheid voor me, dat zoo ronduit te zeggen, en aldoor te herhalen; ik heb je lief.... ik heb je lief.... Maar &apos;t is niet blind en kinderachtig, dat ik van je houd, en niet egoïst. Ik vraag niets voor mezelf, ik zou je zelfs gelukkig kunnen zien met &apos;n andere....
+
+<p>&mdash;Ja, maar dan houd je ook niet van me, jonge dame.
+
+<p>Ik wil alleen, Max, dat ik een goeden <pb n=87 id=pb87>invloed op je uitoefen. Je moet nu naar me luisteren, en mijn woorden zullen wel langzamerhand tot je doordringen, en de uitwerking hebben, die ik wensch, want heelemaal bedorven ben je nog niet.
+
+<p>&mdash;Zoo, gelukkig.
+
+<p>En de vrouwen, de meisjes hebben óok schuld. Ze moesten geen notitie van je nemen,&mdash;óf alleen op de manier, zooals <hi>ik</hi> het doe. Dag Max, dag mijn jongen.
+
+<p><hi>Eva</hi>.
+
+<p>Neen, als de correspondentie voortdurend dien kant uit moest gaan, dan maakte hij die brieven niet eens meer open. Wat verbeeldde dat schepsel zich wel? Wie was zij? wat was zij? Om &ldquo;invloed&rdquo; op hem te kunnen uitoefenen, was het heusch niet <pb n=88 id=pb88>het beste achter de schermen te blijven, en wijs op een afstand te blijven redeneeren. Dan moest zij vóor hem komen staan, hem flink in de oogen zien, en zijn handen drukken, en zeggen:
+
+<p>&mdash;Max, ik wil je vriendin zijn. Vertrouw op mij. Ik wil je in alles helpen.
+
+<p>Maar nu, dat geleuter over &ldquo;houden van&rdquo; en &ldquo;liefde&rdquo;, en nog eens &ldquo;liefde,&rdquo;&mdash;daar mocht zij hem van verschoonen. Wat had hij aan liefde; die eeuwige liefde verveelde hem allang. Vriendschap, ja, die zou hij nog wel kunnen gebruiken. Maar daar was dat wezen nu weer te egoïst voor,&mdash;wel dégelijk was ze egoïst, wát ze ook beweerde.
+
+<p>Enfin. Ze moest het zelf maar weten. Toch.... was hij wel een beetje nieuwsgierig, wie de mysterieuse Eva kon zijn. <pb n=89 id=pb89>Hij ontmoette, hij sprak haar dikwijls, dat schreef zij hem.... vreemd, vreemd, dat hij haar nooit herkende. Maar dat hoefde geen verwondering te wekken in een vrouw. Een vrouw kan huichelen en veinzen als de beste.... is nooit zoo naïef als een man.
+
+<p>Als hij haar eens kortaf, bruusk in de brievenbus van zijn blad schreef: &ldquo;Verzoeke van verder anoniem geschrijf verschoond te blijven&rdquo;? Wat zou ze dan doen? Hij kreeg werkelijk lust dat eens te probeeren. Of zou hij dat wicht haar pleizier maar gunnen, en haar voort laten gaan met haar brieven? Of was het zijn &ldquo;kleine ijdelheid&rdquo; weer, die gestreeld werd door haar belangstelling en die de bewijzen daarvan niet wou missen?
+
+<p>Was er geen enkele gelegenheid, om er achter te komen, wie zij was? Hij had al <pb n=90 id=pb90>eens aan de jongelui een couvert laten zien, en gevraagd; ken je dat schrift? Zonder resultaat. Zou hij datzelfde ook eens bij de meisjes gaan doen, en zoomaar, onverwacht, op een &ldquo;tea&rdquo;? Of zou hij naar den winkel gaan, waar dit papier was gekocht,&mdash;de naam stond ingedrukt op de enveloppe,&mdash;en vragen om &ldquo;dit soort papier, dat ook altijd genomen wordt, door juffrouw....&rdquo;
+
+<p>Vanzelf vulde de bediende den naam dan in.
+
+<p>Maar, neen, hij deed het niet. Wat kon het hem schelen, wie dat bemoeizuchtige wezen was. Misschien hoopte zij er er wel op, dat hij haar door allerlei list zou &ldquo;ontdekken.&rdquo; Maar dat zou haar dan toch leelijk tegenvallen: hij deed volstrekt geen moeite voor haar. Is daar al weer wat....?
+
+<pb n=91 id=pb91><p>&mdash;Juffrouw van Aalst, diende het groompje aan.
+
+<p>&mdash;Laat binnen-komen.
+
+<p>Met uitgestoken hand trad hij toe op Eleonore van Aalst. Dat was, zooals hij haar had leeren kennen, een vrouw, voor wie hij respect had; een vrouw, die deed naar haar woorden, die niet zich in de wereld waagde, om toch maar, hoe dan ook, in aanraking te komen met mannen, maar omdat haar nobele geest, haar goede hart haar dreef, zooveel zij kon het leed te lenigen, de slechte toestanden te verbeteren, in haar naaste omgeving. Maar zij zag er nu al héél ernstig uit.
+
+<p>&mdash;Kan ik iets voor u doen, juffrouw van Aalst? Zooals u weet altijd met genoegen. Moet er &apos;n oproep in m&apos;n blad om steun, &apos;n ingezonden stuk?
+
+<pb n=92 id=pb92><p>Eleonore&apos;s zacht, maar streng gezicht veranderde niet, zooals anders vaak, in de nabijheid van dezen aardigen, zonnigen jongen.
+
+<p>&mdash;Nee, nee, dat is &apos;t niet, zei ze koel. Ik kom me bij u, over u beklagen, meneer van den Heuvel.
+
+<p>&mdash;Wat zal dat zijn?
+
+<p>&mdash;U weet wel, hoe ik &apos;t afgekeurd heb, toen &apos;k merkte, dat u in uw roman &ldquo;Eva&rdquo;, de geschiedenis behandelde van die ongelukkige vrouw, Marceline de la Mandara.
+
+<p>&mdash;Zeker, zeker, weet ik dat nog. En ook, dat ik u toen overtuigd heb van &apos;t goed recht van &apos;n schrijver....
+
+<p>&mdash;O, overtuigd hebt u me niet.
+
+<p>&mdash;Nou, ja, maar u moest me toch toegeven....
+
+<p>&mdash;Er was niets meer aan te doen; dát <pb n=93 id=pb93>was de zaak. U had al &apos;n gedeelte gepubliceerd, en iedereen had Marceline herkend. Nee, goedkeuren kon ik &apos;t niet, en zal ik ook nooit, dat &apos;n nog levende haar eigen historie verteld moet zien, door iemand, die haar nauwelijks heeft gekend, die alles in hoofdzaak weet van &ldquo;hooren zeggen&rdquo;, zoodat ze telkens &apos;n stukje waarheid leest, en dan weer &apos;n stukje pure fantasie....
+
+<p>&mdash;Maar ik heb toch niets slechts van haar gezegd, integendeel!
+
+<p>&mdash;Dat hoeft ook niet, om &apos;t voor haar toch heel, heel pijnlijk te maken. Begrijpt u dat niet? Maar nóg zou &apos;t zoo erg niet zijn, want tot dusverre had Marceline er niets van gemerkt. Ze leeft zoo afgezonderd, zoo stil.... och, &apos;t is eigenlijk &apos;n levende doode.... En als &apos;t niet was om de eindelooze goedheid van Kam, dan had <pb n=94 id=pb94>ze allang, allang haar poging herhaald, om.... Maar waarom vertel &apos;k u dit: zoodra ik weg ben, gaat u er misschien weer gebruik, of liever misbruik van maken....
+
+<p>&mdash;Wees niet bitter, juffrouw van Aalst. Ik ben &apos;t niet van u gewoon, dat u zoo hard is. Ik heb immers &apos;t diepste medelijden met Marceline.
+
+<p>&mdash;O, dát hebt u niet, u zou haar anders hebben gespaard,&mdash;u zou dan wel gewacht hebben, tot ze.... gestorven was.
+
+<p>&mdash;Is er zóo iets verschrikkelijks gebeurd, juffrouw van Aalst, dat u nu opeens zóo tegen me moet worden?
+
+<p>&mdash;Ja, zóo iets verschrikkelijks is er gebeurd. Iemand heeft haar verteld, dat ze in uw blad werd &ldquo;beschreven&rdquo;. Toen heeft ze &apos;t willen lezen.... en toen ze uw tooneelen las van Micaëlo&apos;s ziekte en Micaëlo&apos;s <pb n=95 id=pb95>dood, toen heeft ze &apos;n zenuw-acces gekregen, zoo vreeselijk, dat ze nú nog niet tot bewustzijn gekomen is.
+
+<p>&mdash;Goeie god!
+
+<p>&mdash;U weet, ze is aldoor lijdende geweest, aldoor; de goeie Kam had beter gedaan, haar rustig te laten sterven.... maar hij houdt zóoveel van haar.... ach, de liefde is soms wél verschrikkelijk wreed.... Ze kan niet loopen, haar haar is dun en grijs geworden.... God, waarom mocht dat arme mensch niet sterven....
+
+<p>&mdash;U moet niet denken, juffrouw van Aalst, dat ik zóó&apos;n monster van ongevoeligheid ben. Als &apos;k alles geweten had.... Maar zegt u nu zelf: &apos;t onderwerp is als aangegeven voor &apos;n roman....
+
+<p>Eleonore glimlachte.
+
+<p>&mdash;Wat &apos;n kind is die groote jongen nog, <pb n=96 id=pb96>zei ze. U hebt nog niet veel geleefd....
+
+<p>Max gaf geen ondeugend antwoord, zooals hij bij een andere gelegenheid zou hebben gedaan; hij zat stil voor zich uit te staren.
+
+<p>&mdash;En wat moet &apos;k nu doen? vroeg hij.
+
+<p>&mdash;Ja, wat kunt u doen? Niets. &apos;t Is heel treurig, maar alles van Marceline is tegenwoordig zóó treurig.... Je kan haar leven in drie phasen zien: schijn-geluk, echt-geluk, en nu de ellende. Vreemd, dat blijvend geluk niet schijnt te mógen bestaan op de wereld.
+
+<p>&mdash;Als ze gestorven was, tegelijk met hem, dán zou haar geluk blijvend zijn geweest....
+
+<p>&mdash;Ja, zei Eleonore. En dat is juist &apos;t wreede, dat ze <hi>niet</hi> gestorven is....
+
+<p>De zeer vele, en verschillende indrukken dien middag ontvangen, maakten, dat Max <pb n=97 id=pb97>rustiger, <corr sic=peizender>peinzender</corr> was, dan anders. Hij voelde zeer goed, dat, wat hij gedaan had, niet mooi, niet nobel genoemd worden kon. Hij had, zonder te bedenken, hoe dat moest worden opgenomen, de levensgeschiedenis van een nog levende ten eigen bate geëxploiteerd; hij had immers stof noodig, hij moest een roman schrijven....
+
+<p>&mdash;Waarom ik eigenlijk hier gekomen ben.... zei Eleonore. Ik kan toch niets meer uitrichten. Maar, ja, ik weet &apos;t al, waarvoor ik kwam: ik wou u waarschuwen: wees voortaan meevoelender, voorzichtiger. Ik ken er meer voorbeelden van, dat een voorval uitgewerkt wordt tot een roman, terwijl de personen nog leven. Ik kan dat nooit goedkeuren, alleen als de personen allen gestorven zijn.... En dan nog....
+
+<p>&mdash;U kan er zeker van wezen, zei Max <pb n=98 id=pb98>ernstig, dat ik zoo iets nooit, nooit meer zal doen. Maar nu.... &apos;t was ál te verleidelijk, juffrouw van Aalst. Denk eens, ons blad heet Eva: en dan de Eva-geschiedenis van Marceline, &apos;t kón niet mooier.
+
+<p>&mdash;Ja, &apos;t trof nu wel heel toevallig zoo samen....
+
+<p>&mdash;En dan, ik dacht, dat Marceline zoo&apos;n beetje buiten kennis was.... dat ze misschien wel krankzinnig zou worden....
+
+<p>&mdash;Nee, dat geluk is haar niet gegund. Ik ga nu, meneer van den Heuvel, ik hoop werkelijk, dat u m&apos;n raad ter harte zal nemen.
+
+<p>&mdash;Dat zal ik, dat zal ik, juffrouw van Aalst, zei Max, en drukte haar de hand. Ik dank u, dat u gekomen is....
+
+<p>Hij keek haar eerlijk in het ernstige gezicht, en toen zij de kamer verlaten had, bleef hij heen en weer loopen, in diepe gedachten <pb n=99 id=pb99>verzonken. Een goede vrouw.... een lieve, werkelijke vrouw, ondanks haar feministe-zijn. Hij had veel sympathie voor haar, o ja, veel, veel....
+
+<p>Wat een verkwikking een dergelijke vrouw te ontmoeten. Eerst had hij haar zoo&apos;n beetje belachelijk gevonden, zooals alle vrouwen, die geen zin hebben om te trouwen, en zich zoo rustig en vrij als een man in het openbare leven bewegen. Maar nu hij haar nader leerde kennen, nu bewonderde hij haar koelen, degelijken ernst, haar kloek verstand, haar goedheid, die nooit zwakheid werd. Wat een verschil met de meisjes, die hem vervolgden, en om hem heenzwermden, als vliegen om de suiker.... Geen gekkelijkheid bij haar, geen malle verliefdheid, geen broeiende zinnelijkheid achter een strak gezicht.... Zooals men haar zág, <pb n=100 id=pb100>zoo wás zij. En wat een frissche trekken nog voor zoo een oude....
+
+<p>Maar oud? Dat was zij niet. Hoe kwam hij er bij. Zij kon hoogstens even over de dertig wezen,&mdash;misschien een jaar of vijf, zes ouder dan hij....
+
+<p>Maar waar wil je toch heen, Max? vroeg hij zichzelf. Vind je soms Eleonore van Aalst een geschikte partij voor jóu?
+
+<p>Ik.... ik weet niet....
+
+<p>Denk &apos;s goed na?
+
+<p>Ze is ferm, ze is verstandig. Ze loopt me niet achterna. Ze is knap van uiterlijk. Ze is onafhankelijk.
+
+<p>Maar, Max, dan moet jij die hebben!
+
+<p>Als ik ooit trouwde....
+
+<p>Jij hebt je zoo dikwijls door je gevoel laten leiden, laat je verstand je nù &apos;s zeggen, wat je moet doen.
+
+<pb n=101 id=pb101><p>Nou, wat moet ik dan doen? Is zij &apos;n geschikte vrouw voor mij?
+
+<p>Ja. Zij zal je niet bederven, waar de onbekende zoo bang voor is. Zij zal je terecht helpen, en raad geven....
+
+<p>Zou &apos;t niet vervelend zijn?
+
+<p>Integendeel! Zoo&apos;n aanhalige poes, dát zou je gaan vervelen.
+
+<p>Ja, dat is waar. Ik moet eerlijk zeggen: ik houd van Eleonore, (grappig-romantische naam voor een zoo weinig romantische vrouw.) Ze is wel wat ouder, en dat is heelemaal niet prettig, maar er moet <hi>iets</hi> aan mankeeren. En bovendien, &apos;t is niet kwaad, dat ik, juist ik, wat opzie tegen m&apos;n vrouw. Ik zou trotsch op haar zijn. Wat geef ik au fond om die schepseltjes, die voor me staan te blozen, en m&apos;n handen zoenen.... nee, die soort van liefde verveelt me. Ik <pb n=102 id=pb102>wil &apos;t nu met verstandelijke liefde probeeren. En &apos;t pikante is, dat Eleonore nog niet eens dadelijk ja zeggen zal. Daar vind ik nu op eens de vrouw, die veroverd moet worden. En ik zal haar veroveren. Ik zál.
+
+<p>En je onbekende dan? En Gerrie van Velsen? En.... Eva?
+
+<p>Eva?
+
+<p>Ja, je aanstaande, juffrouw de Bruin?
+
+<p>Opeens barstte Max uit in zoo&apos;n schaterenden lach, dat de klerken in het achterkantoor ervan opkeken, en dachten: Zeker weer een verliefde brief gekregen, die!
+
+
+
+
+<div1 id=ch6 n=VI>
+<head>VI.</head>
+
+
+<p>Max was in een dolle, uitgelaten bui. Hij had een blauwtje geloopen. Voor de eerste maal van zijn leven,&mdash;en voor de laatste!&mdash;<pb n=103 id=pb103>had hij een blauwtje geloopen. Natuurlijk bij Eleonore.
+
+<p>Toen zij verbaasd keek, zonder te glimlachen (daar was hij dankbaar voor) was hij haar nog hooger gaan achten, om de kalme wijze, waarop zij vriendelijk zei, dat zij zich niet geschikt voor hem achtte, en hém niet voor háar, en dat zij er bovendien niet aan dacht, ooit te trouwen.&mdash;Maar dat zij hem in eerste instantie afwijzen zou, had hij immers wel eenigszins verwacht?....
+
+<p>Daarom praatte hij voort, en bepleitte zijn zaak bij haar (hij had niet voor niets in de rechten gestudeerd!) en zij hoorde hem aan, met aldoor dezelfde zachte vriendelijkheid, maar haar antwoord was aldoor: Neen, heusch niet, heusch niet, Max.
+
+<p>&mdash;Vind je me soms te jong? Maar....
+
+<p>&mdash;Ja, ik vind je te jong, en niet alleen <pb n=104 id=pb104>in jaren,&mdash;ofschoon ik dat ook eigenlijk al &apos;n onoverkomelijk bezwaar vind,&mdash;maar je ben te jong in levensinzicht, te jong van begrip, begrijp je me?
+
+<p>&mdash;Maar juist dáárom moet &apos;k zoo&apos;n vrouw hebben als jij, Eleonore. Begrijp jij dat niet?
+
+<p>&mdash;Best mogelijk, jongen.... maar al heb je misschien zoo iemand noodig, als ik ben,&mdash;ik voel daarom toch nog geen roeping me voor je op te offeren.
+
+<p>Dat antwoord was toch wel wat al te koel. Een vrouw, die het een &ldquo;opoffering&rdquo; vond, met hem te trouwen! Kon die mogelijkheid bestaan?
+
+<p>Maar het was waar; hij had tot dusverre alleen over zichzelf gesproken. En de zaak wel een beetje alleen van den practischen kant bezien. Hij had weliswaar <pb n=105 id=pb105>gedacht, dat een verstandige vrouw als zij, het apprecieeren zou, als een huwelijksvoorstel op uitsluitend verstandelijk-practische wijze behandeld werd,&mdash;maar zelfs zoo eene bleek te willen hooren van &ldquo;liefde&rdquo;....
+
+<p>Hij had haar hand gevat.
+
+<p>&mdash;Maar ik houd zoo veel van je, Eleonore.... Nee, kijk niet zoo ongeloovig. Je weet niet, hoe beu ik ben van al dat aangehaal en die verliefderigheidjes, ik blijf er zoo koud bij, zoo koud als &apos;n steen. Maar van jou houd &apos;k, Eleonore. &apos;t Gevoel, dat ik voor jou heb, is de grondslag van de echte liefde. En je ben zoo mooi.... zoo mooi met je glanzende haar.... en je prachtige teint, en je lieve, <hi>lieve</hi> oogen....
+
+<p>Hij was dichter bij haar gekomen, en had zijn eenen arm om haar hals geslagen, <pb n=106 id=pb106>en zijn andere om haar middel gelegd. Toen had hij haar aangekeken, vleiend en dringend.... zou zij dáár zelfs ongevoelig voor blijven? en had haar snel de lippen gekust.
+
+<p>Maar zij weerde hem af, zacht maar beslist, totdat hij haar loslaten moest.
+
+<p>&mdash;Max, doe dat niet....
+
+<p>&mdash;Waarom niet? waarom niet? Als ik toch van je houd....
+
+<p>&mdash;Omdat ik niet houd van jou. En jij, Max, heusch, je mag me graag lijden,&mdash;maar liefhebben doe je me niet.
+
+<p>&mdash;Wél! wél! riep hij onstuimig. Waarom geloof je me niet?
+
+<p>&mdash;Hoe kan ik, die je ken, je nu gelooven! Luister, zei ze, om haar woorden te verzachten. Ik weet wel, je meent &apos;t heel goed, Max, maar je hebt me volstrekt niet lief. Je acht me, je respecteert me....
+
+<pb n=107 id=pb107><p>&mdash;Dat doe ik! dat doe ik! Omdat jij verstandig ben en onafhankelijk, omdat jij niet hengelt naar &apos;n man, jij vernedert je niet, jij verlaagt je niet: jij ben &apos;n vrouw, &apos;n mooie, echte vrouw....
+
+<p>&mdash;O, nee, Max, juist niet.... &apos;n mooie, echte vrouw heeft niet zoo&apos;n koud temperament als ik; die heeft wel degelijk verlangen naar liefde,&mdash;al &ldquo;hengelt ze dan ook niet naar &apos;n man&rdquo;, en ik....
+
+<p>&mdash;Leo.... zei Max, en zei niets verder, maar keek haar alleen maar aan.
+
+<p>Zij nam zijn hand.
+
+<p>&mdash;Je ben &apos;n lieve, allerliefste jongen, Max, zei ze, en haar moederlijke toon van spreken, en de wijze, waarop zij zijn vingers streelde, deed hem begrijpen, dat zij nooit toestemmen zou. En als jij minder.... kinderlijk was, en als &apos;t verschil tusschen <pb n=108 id=pb108>ons in jaren niet aan de &ldquo;wrong side&rdquo; bestond, en als ik wat minder koud voelde,&mdash;dan zou &apos;k misschien wel van je kunnen gaan houden. Want al ben je nu nog wat wild en wat oppervlakkig,&mdash;slecht ben je, dunkt me, niet.
+
+<p>&mdash;Nee, slecht ben ik niet.
+
+<p>&mdash;Kom, troost je maar. Zij boog zich naar hem toe, en gaf hem een zoen op zijn voorhoofd.
+
+<p>Max zweeg. Zijn gewone overmoedigheid had hem begeven. Hij voelde zich klein in haar nabijheid.
+
+<p>&mdash;Je zal er wel gauw overheen zijn, hoor, verzekerde zij hem. Je ziet in je omgeving alleen vrouwen, die je vleien en om je gunst bedelen, ik doe dat niet, ik neem zelfs weinig notitie van je.... nu, vanzelf trekt je dat aan, je zou &apos;t pikant vinden, mij, juist mij....
+
+<pb n=109 id=pb109><p>&mdash;Ja, m&apos;n &ldquo;kleine ijdelheid&rdquo; zou gevleid zijn, zei hij bitter.
+
+<p>&mdash;Wees niet boos, wees niet bedroefd, Maxlief. Je vriendin wil ik zijn, zal ik zijn. Dát is de verhouding, waarin <hi>wij</hi> tot elkaar moeten staan. Kom altijd bij me, als je hulp of raad noodig hebt, altijd, beloof me dat.
+
+<p>Maar Max gaf, koppig, geen antwoord.
+
+<p>&mdash;Beloof je me dat?
+
+<p>&mdash;Je kon &apos;t toch in elk geval &apos;s met me probeeren....
+
+<p>&mdash;O, nee, Max, laten we dat alsjeblieft niet doen! Nu kunnen we nog scheiden als goede vrienden,&mdash;en goede vrienden blijven.
+
+<p>&mdash;Zeg &apos;t maar, Eleonore, je vindt me kinderachtig, hè? misschien wel belachelijk, dat ik, zoo&apos;n iemand als ik, bij jou ben durven komen. Zeg &apos;t maar?
+
+<pb n=110 id=pb110><p>&mdash;Nee, je vergist je. Wijt &apos;t niet aan jezelf, dat ik niet van je houden kan. Ik.... ja, ik wil &apos;t je zeggen; ik bén niet voor liefde. Ik weet geen liefde. &apos;t Eenige, wat ik heb, misschien, is &apos;t moederinstinct.... En daarom, jongen, kom altijd bij me, altijd, als je raad noodig hebt.... of steun.... maar spreek me nooit meer van liefde.
+
+<p>Toen Max heenging, was hij werkelijk wat ontroerd geweest.... Maar nu was zijn stemming weer omgeslagen in drieste vroolijkheid. Zij had gelijk: lief had hij haar niet: kon hij dan nu anders zoo lachen en pleizier maken, hè? Neen, lief had hij haar zeker niet: Hij was er trotsch op geweest, háár veroverd te hebben, háar, de zelfstandige, fiere, door en door degelijke.... dat had hij &ldquo;pikant&rdquo; gevonden. Ook dáárin <pb n=111 id=pb111>had zij gelijk. Ja, hij zóu het pikant gevonden hebben, háar als zijn aanstaande te presenteeren aan zijn woelige, soms lastige &ldquo;bende aanbidsters&rdquo;.... En ook hierin had zij al weer gelijk: dat zij te oud was voor hem. Gedecideerd, zij was te oud. Dat had hij nu degelijk gemerkt uit haar bezadigden toon, haar moederlijke wijze van optreden....
+
+<p>Neen, alles bij elkaar genomen, was het goed, zooals de zaken waren geloopen. Hij was nu nog vrij zich te vermaken, zooals hij zou wenschen. Want, ja, gebonden, erg gebonden, zou hij toch wel in een engagement met haar zijn geweest. Hij had niet meer zoo spontaan kunnen zijn; had aldoor moeten bedenken: ben ik ook soms te kinderachtig, stel ik haar door mijn gedrag teleur?....
+
+<p>Enfin. Er zou misschien nog wel eens een tijd komen, dat hij haar dankbaar was voor <pb n=112 id=pb112>haar weigering. Wie weet, als hij eens dol en door en door verliefd werd,&mdash;bijvoorbeeld op de onbekende schrijfster van de minnebrieven.... Hij dacht even ernstig na. Had hij zich misschien zoo tot Eleonore aangetrokken gevoeld, omdat haar geest zooveel overeenkomst had, met den geest, die uit de brieven sprak?.... En was hij dus, zonder het te weten, onder de bekoring geraakt, van de schrijfster der brieven?.... Hemel! dan was het toch zaak haar te vinden.... om door haar te worden getroost....
+
+<p>Het zou zoo eenvoudig geweest zijn, als Eleonore zelf de schrijfster was geweest. Maar toen hij het haar, zonder omwegen vroeg, hadden haar oogen zoo gelachen, dat hij <hi>zag</hi>, hoe haar lippen slechts met moeite de woorden weerhielden: &ldquo;Nee, <hi>ijdele</hi> jongen!&rdquo;
+
+<pb n=113 id=pb113><p>Goed, goed, hij was nog jong, hij kon wel wachten. En overhaast te werk gaan bij zoo&apos;n ernstige zaak als een huwelijk?....
+
+<p>Je reinste gekkenwerk zou het wezen! D&apos;rum prüfe wer sich ewig bindet....
+
+<p>&mdash;Wat ben je stil opeens, Max?
+
+<p>Het was vanmiddag de &ldquo;thee&rdquo; der redactie van &ldquo;Eva&rdquo;. Het meerendeel der vaste medewerkers was opgekomen, en veel bezoeksters vermaakten zich met de vroolijke jongelui. Max was een der druksten geweest, zittende tusschen Gerrie van Velsen, wier triest gezichtje hij door allerlei grappen wat trachtte te verhelderen, (hij apprecieerde het in het kind, dat zij haar bezoeken niet opeens had gestaakt, en dat zij zoo braaf den schijn wist op te houden) en tusschen &ldquo;zijn Eva&rdquo;, juffrouw de Bruin, die hij openlijk &ldquo;zijn Eva&rdquo; noemde, en voor den gek hield, <pb n=114 id=pb114>totdat het arme schepsel, opgewonden, verdwaasd, soms geheel haar begrip der convenances verloor, hem in den arm kneep, hardop, &ldquo;Maxie!&rdquo; gilde, en zich tot de risée van het heele gezelschap maakte, zonder dat het haar iets scheen te kunnen schelen. Al haar pogingen, haar dreigende, zoowel als haar vleiende, al haar woorden, zoenen, omhelzingen, knievallen zelfs, hadden niet gebaat, om Max naar haar Pa te bewegen, en nu trachtte zij zichzelve voldoening te geven, door luid aan iedereen te vertellen, dat Max haar een aanzoek had gedaan, en zich zoo&apos;n beetje, als zijn verloofde voor te doen.
+
+<p>Maar opeens verveelde Max het al te schelle gelach en het al te luide gepraat zóo verschrikkelijk, dat hij de wijk nam naar Clara, een meisje met een zacht, <pb n=115 id=pb115>intelligent, maar toch ook opgewekt gezicht. Hij vond haar volstrekt niet &ldquo;amusant&rdquo;, zooals hij het uitgelaten Mientje vond, of de quasi-naïeve Bonnie, maar zij gunde hem rust, en dat was al veel.
+
+<p>&mdash;Wat ben je stil opeens, Max?
+
+<p>&mdash;Stil? vroeg hij, wat gepikeerd, dat zij nu ook al begon van hem te vergen, dat hij &ldquo;aardig&rdquo; en &ldquo;onderhoudend&rdquo; zou wezen. Ik ben nog wel zoo gek geweest, als ik maar kon, zooeven.
+
+<p>&mdash;Ja, zooeven! Maar nu werd je ineens zoo strak, zoo stil.
+
+<p>Hij keek haar aan, alsof hij zeggen wou: waar bemoei jij je mee? maar zijn gewone hoffelijkheid liet niet toe, dat hij die woorden uitte. Ach, ja, waarom zou hij ook niet vroolijk zijn? Vreugd is het leven, o, zalig, die &apos;t weten....
+
+<pb n=116 id=pb116><p>&mdash;Waarom kom je nooit meer tennissen? vroeg hij.
+
+<p>&mdash;Ik heb &apos;t te druk.
+
+<p>&mdash;Druk? waarmee dan?
+
+<p>&mdash;Ik studeer immers voor m&apos;n middelbaar Engelsch.
+
+<p>Immers!.... Ja, hij werd gecenseerd, zoowat alles te weten, zoowat alles te onthouden....
+
+<p>&mdash;Nou, ja, maar &apos;n ontspanning is goed voor je, hoor? Je komt maar weer &apos;s op &apos;t veld.
+
+<p>Sneeuw, Kaatje, Robert Roodhaar en de dikke Jan maakten zich verdienstelijk bij de dames. Zij boden haar ververschingen aan, terwijl Max zich óok door hen liet bedienen.
+
+<p>&mdash;Wat heb je daar voor sandwiches?
+
+<p>&mdash;Alstjeblieft, meneer, getruffeerde kalfsborst, <pb n=117 id=pb117>meneer, zwezerik, meneer, en deze zijn met zalm, meneer, kwam Karel kellnerachtig voor hem staan. Wil ik u &apos;n bordje brengen, meneer?
+
+<p>&mdash;Ja, breng jij mij &apos;n bordje, en ook een voor Donna Clara.
+
+<p>&mdash;Mooi klinkt dat: Donna Clara.
+
+<p>&mdash;Ja, en ook toepasselijk; weet je niet? Donna Clara, Donna Clara, heisz-geliebte langer Jahre....
+
+<p>Zij keek hem zóo ironisch aan, dat hij haar óok onwillekeurig langer aan bleef kijken. Wel had ze zúlke oogen? en durfden die hem zóo aan te zien? Wel, allemachtig, hij moest toch eens wat meer notitie van haar nemen, dan hij tot dusver had gedaan.... Wie weet, misschien was zij het waard. Eens onderzoeken.
+
+<p>&mdash;Er zijn dagen, die voor jaren tellen....
+
+<pb n=118 id=pb118><p>&mdash;Wat bedoel je daarmee?
+
+<p>&mdash;Ik ken jou nog geen jaren, nietwaar? En toch zeg ik: heisz-geliebte langer Jahre....
+
+<p>&mdash;Scheid uit, Max, wees in &apos;s hemelsnaam tegen mij niet zoo flauw. Met zulke dingen kan je mogelijk succes hebben bij je Eva....
+
+<p><corr>&mdash;</corr>O, was zij jaloersch? Mooi zoo! mooi zoo!
+
+<p>&mdash;Ach, zei hij, quasi-verdrietig. Critiseer me niet zoo. Neem me, zooals ik ben, &apos;n laffe jongen, zonder geest of gevoeligheid, maar laat me niet zoo merken, hoe je over me denkt, hè? daar kan ik niet tegen.
+
+<p>&mdash;Malle jongen, zei ze, maar haar oogen waren nu zoo zacht-belangstellend op hem gericht, dat hij bijna in een lach was uitgebarsten, een lach van jongensachtigen triomf.
+
+<p>Zijn toon werd weer schertsend, zijn wat <pb n=119 id=pb119>lustelooze houding veranderde in zijn gewone veerkrachtige, en hij sprong op, alsof de rust hem verveelde.
+
+<p>Kaatje en Jan kakelden met Mientje, wier oogen glommen van pret, en met Bonnie, wier kindergezichtje nooit uit de plooi kwam, zelfs niet bij tamelijk-gewaagde anecdoten, waarom juffrouw de Bruin het gierend uitschreeuwde. Robert beweerde tegen Gerrie, die vriendelijk zat te luisteren, terwijl Sneeuw zich verdienstelijk maakte, en Emilie bezig-hield, het veeleischende meisje van Robert.
+
+<p>&mdash;Waar heb je &apos;t over? interrompeerde Max Robert.
+
+<p>&mdash;O, we hebben &apos;t over de plaats van de vrouw, en de beteekenis van de vrouw.
+
+<p>&mdash;Ja, zei de onschuldige Bonnie.... Ik <pb n=120 id=pb120>vind, dat de vrouw zich niet zoo op de voorgrond moet plaatsen....
+
+<p>&mdash;Laat ze maar, hoor, zei Max beschermend. Ze wint &apos;t toch niet, hoor?
+
+<p>&mdash;Nou, dat moet je niet zeggen, Max, viel vinnig Emilie in. Zeker zal de positie van de vrouw veel verbeterd worden, als ze volhoudt; zeker zal ze dan veel meer rechten krijgen....
+
+<p>&mdash;Ja, rechten! rechten! riep Eva de Bruin, &apos;n Meisje moet niet altijd hoeven te wachten, tot er &apos;n man om d&apos;r komt, ze moet zelf kunnen....
+
+<p>&mdash;Hoor me m&apos;n clowntje &apos;s aan, zei Max, en streek Eva spottend onder de kin. Wat jij, Gerrie, vind jij ook, dat de positie van de vrouw verbeterd moet worden?
+
+<p>&mdash;Ik ben heel tevreden, hoor!
+
+<p>&mdash;Ik ook! riep Mientje. Ik vind de mannen <pb n=121 id=pb121>nog zoo kwaad niet. Ze zijn heel goed, om je allerlei dienstjes te bewijzen, en dat doen ze graag, want....
+
+<p>&mdash;.... de slavernij zit de <hi>man</hi> in &apos;t bloed! riep Clara.
+
+<p>&mdash;Hè, wat zijn jullie oppervlakkig, gispte Emilie, haar stem verheffende, temidden van het gelach. De <hi>vrouw</hi> heeft zich juist altijd tot slavin verlaagd....
+
+<p>&mdash;Hè, hoe kan je je eigen sexe zoo smaden! Nee, zeg, ik vind: de man kan tevreden wezen over de vrouw, en de vrouw óok over de man. Ze hebben elkaar niets te verwijten....
+
+<p>&mdash;Nu, maar ik ben &apos;t met juffrouw Emilie eens, riep Eva de Bruin, dat de mannen wel &apos;s &apos;n toontje lager mochten zingen....
+
+<p>&mdash;Nóg lager dan bas?
+
+<p>&mdash;Ze &ldquo;bassen&rdquo; al genoeg, laat &apos;t nog <pb n=122 id=pb122>maar niet erger worden, riep Emilie, die boos werd.
+
+<p>&mdash;Nee, ik weet wat, zei Sneeuw. We moeten allemaal om beurten onze meening zeggen over de vrouw, wij, mannen, dan mogen de meisjes &apos;t straks doen over de man.
+
+<p>&mdash;Heel goed, heel goed!
+
+<p>&mdash;Bedoel je &apos;n qualificatie, of een opinie?
+
+<p>&mdash;Nee, ik bedoel, dat jullie zeggen: de vrouw moet zijn: zoo of zoo.
+
+<p>&mdash;Mooi en dom! riep Kaatje, mooi en dom!
+
+<p>&mdash;Dat is voor jóu misschien voldoende, zei Emilie streng. Maar ik wil hopen niet voor iedere man. Robert, jij?
+
+<p>Robert, onder den sterken blik van zijn meisje, durfde niet anders meenen, dan:
+
+<p>&mdash;Ze moet ontwikkeld zijn, zoodat ze <pb n=123 id=pb123>zich niet klein hoeft te voelen naast de man, maar zijns gelijke kan wezen.
+
+<p>&mdash;Lief! lief! moet ze zijn! riep Max. Aanhankelijk, teeder.... van wijze vrouwen moet ik niets meer hebben! nee! Daarmee kom je niet verder. Lief! en liefhebbend!
+
+<p>&mdash;Ah! zuchtte Eva de Bruin verlicht.
+
+<p>Maar Max lette niet op haar; zijn wenkbrauwen waren samengetrokken; hij schertste niet, hij sprak in ernst.
+
+<p>&mdash;&apos;n Vrouw, die je liefheeft.... Liefde, liefde.... is de eenige noodige eigenschap van de vrouw.
+
+<p>&mdash;En zachtheid.... en schoonheid.... en trouw en vroolijkheid.... Nee, ik zal je zeggen, hoe ze moet zijn, volgens &apos;t alphabet: aanhalig, beminnelijk &apos;n charmeuse, dodderig, eerlijk, fier.... zei Jan.
+
+<pb n=124 id=pb124><p>&mdash;Goed, hartelijk, innig, jolig, knap, kwam Karel hem helpen.
+
+<p>Zij gingen nu allen zoeken, volgens de letters van het alphabet naar kwaliteiten van de vrouw, totdat zij stuitten op de q, die Jan voor niet-qualificeerbaar uitmaakte en Sneeuw riep:
+
+<p>&mdash;Nu heb <hi>ik</hi> nog niets gezegd!
+
+<p>&mdash;Nee, Sneeuw, dat is waar, Sneeuw, kom laat de koele sneeuw van je woorden over ons heen-sneeuwen, Sneeuw!
+
+<p>&mdash;Ik zal alleen maar herhalen, wat Sarah Bernhardt &apos;s eens van Fédora zei, jullie weten? dat stuk van Sardou? Nou, <hi>ik</hi> zeg dat nu van <hi>de vrouw</hi>: <foreign lang=fr>Elle doit être á la fois coquette comme une Slave, violente comme une Espagnole, amoureuse comme une Italienne, raffinée comme une Française, et <hi>racée</hi> comme une Anglaise.</foreign>
+
+<pb n=125 id=pb125><p>&mdash;En wat als een Hollandsche?
+
+<p>&mdash;Ja, wat?
+
+<p>&mdash;<foreign lang=fr>Esclave</foreign>, zei Emilie scherp.
+
+<p>&mdash;<foreign lang=fr>Dolente, tendre</foreign>, verzachtte Mientje.
+
+<p>&mdash;<foreign lang=fr>Calme, intelligente,&mdash;sensible et sensitive</foreign>, zei Clara.
+
+<p>&mdash;Dat vind ik nog &apos;t beste, zei Sneeuw.
+
+<p>&mdash;<foreign lang=fr>Douce, douce comme un agneau</foreign>, zuchtte Eva de Bruin.
+
+<p>&mdash;En wat vindt Bonnie ervan?
+
+<p>&mdash;<foreign lang=fr>Innocente</foreign>, zei Bonnie.
+
+<p>&mdash;Dat antwoord is jouwer waardig, bravo! bravo! riep Jan, sloeg zijn arm om haar middel, en dwong haar een paar walspassen met hem door de kamer te doen.
+
+<p>&mdash;Hè, ja! &apos;n dansje! &apos;n dansje! riep de dartele Mientje, en sprong op van haar stoel. In een oogenblik was de tafel zoo ver mogelijk in een hoek geschoven, waren <pb n=126 id=pb126>de stoelen uit den weg gezet, en walsten de paren door de kamer, terwijl Sneeuw, die niet dansen kon, met veel geweld, maar gelukkig maatvast, de vals uit den Mikado te schreeuw-zingen stond:
+
+
+<lg>
+    <l>De bloemen, die bloeien in Mei, ja, ja,
+    <l>De bloemen, die bloeien in Mei!
+</lg>
+
+
+<p>Max had met de zich zenuwachtig aan hem vast-klemmende Eva de Bruin rondgetold, totdat hij zijn geduld en zijn adem verloor. Hijgend stond hij stil, en riep:
+
+<p>&mdash;Hei! wie neemt dat presentje &apos;s van me over!
+
+<p>Niemand ontfermde zich, zoodat Max haar zonder complimenten in zijn bureau-stoel neerdrukte, waar zij uitgeput, gichelend, bleef zitten. Zonder omwegen trok Max Bonnie uit de armen van Jan, en walste wild met haar voort.
+
+<pb n=127 id=pb127><p>Juist fluisterde hij het onschuldige meisje een erge ondeugendheid in, toen hij den blik van Clara ontmoette, die zich met een blad papier koelte stond toe te wuiven. Het was een blik, dien Max onmogelijk opvatten kon als &ldquo;jaloezie&rdquo;, daarvoor lag er te weinig boosheid in.
+
+<p>Hij zag afkeuring in haar oogen en tegelijk een gevoelig medelijden, dat hem veel meer trof, dan een stekende blik vol toorn en afgunst zou hebben gedaan. Wat wou zij toch? Waarom bemoeide zij zich zoo met hem? Was dát nu zoo erg, wat hij had gedaan? Onder de jongelui was het een wedstrijd, wie Bonnie aan het blozen kon brengen, en hij zou het typisch vinden, als het hem gelukte. Toch, hij moest het bekennen, hij zou de aardigheid, die hij Bonnie had toe-gefluisterd, niet openlijk <pb n=128 id=pb128>hebben durven herhalen, noch alleen aan een ander meisje debiteeren.... maar wat zóu dat? Je zag toch je menschen aan?....
+
+<p>Toch hinderde Clara&apos;s belangstelling hem, omdat die hem zoo opeens en onverwacht het futiele en leege van zijn leven toonde. Hij verloor zich graag in vroolijke genoegens, en vond het niet aangenaam, daar plotseling aan te worden onttrokken. En toen veranderde zijn stemming weer: eensklaps dacht hij er aan, hoe Clara&apos;s houding jegens hem, veel had van die van Eleonore.... en het betere in hem overheerschte voor een oogenblik zijn frivool gevoel. Anders was Clara dan Eleonore, zeker.... jonger, niet zoo beslist in haar optreden, en minder moederlijk, wat hem in Eleonore zoo had gehinderd,&mdash;maar het goede fond was bij beiden hetzelfde. Het was waar, dat <pb n=129 id=pb129>Clara hem nooit &ldquo;het hof had gemaakt&rdquo;, zij hield zich bescheiden op den achtergrond, en daaraan was het te wijten, dat hij nooit zooveel notitie van haar had genomen, als van Mientje, of Gerrie, of zelfs van Eva de Bruin. Maar nu voelde hij toch wel, dat hij Clara méer achtte, dan een van de anderen, zij was degelijker, dieper, en had niet slechts éen enkele gemoedsstemming: verliefd zijn.
+
+<p>Neen, zij was een.... heel aardig meisje.... zelfs niet onknap van gezicht.... wie weet.... wie weet....later....later misschien....
+
+<p>Al deze gedachten had hij, al walsende met Bonnie, afgedacht, en toen hij haar met een sierlijken zwaai en een hoffelijke buiging op haar plaats had terug-gezet, ging hij Clara ten dans vragen.
+
+<p>&mdash;Zeg, Max....
+
+<pb n=130 id=pb130><p>&mdash;Nee, ik zeg &apos;t je toch niet.
+
+<p>&mdash;Hoe weet je dan, wat ik wou vragen?
+
+<p>&mdash;Dat is gemakkelijk genoeg te raden. Je wou precies weten, wat ik tegen Bonnie heb gezegd.
+
+<p>&mdash;Ja, maar niet uit pure nieuwsgierigheid....
+
+<p>&mdash;Wat doet &apos;t er toe, waaróm je &apos;t weten wou? Ik zeg &apos;t je toch niet. Niet alle dingen zijn voor alle meisjes geschikt.
+
+<p>&mdash;Zoo, maak jij dan nog onderscheid tusschen meisjes en meisjes?
+
+<p>&mdash;Ja zeker maak ik onderscheid.
+
+<p>Hij zag haar even aan, en de plotselinge overgang van scherts naar ernst in zijn toon en in zijn oogen ontroerde haar, meer dan zij wou, dat hij zag.
+
+<p>Maar hij had haar aandoening natuurlijk dadelijk bemerkt, en was tevreden. Wie <pb n=131 id=pb131>weet.... wie weet.... later, later misschien....
+
+<p>&mdash;Ik ben moe! ik ben moe! kondigde Mientje luidruchtig aan. Ik kan niet meer! ik ben dood!
+
+<p>Gerrie lag ook al lang uitgeput in een stoel, en de andere meisjes en de jongelui wuifden hun gloedroode gezichten vergeefs koelte toe met zakdoeken en bladen papier. Alleen Sneeuw, de koele, onaandoenlijke Sneeuw, stond maar onverstoorbaar te galmen:
+
+
+<lg lang=fr>
+    <l>Pourquoi ne pas m&apos;aimer....
+    <l>Tu veux donc que je meure....
+</lg>
+
+<p>&mdash;&apos;n Kopje thee! smeekte Eva de Bruin.
+
+<p>&mdash;O, &apos;t is ook veel te warm om zoo te dansen, hekelde Emilie. Kijk hij er nou &apos;s uitzien, wees zij op haar verloofde, Robert, wiens heele gezicht, tot in den hals en <pb n=132 id=pb132>onder het wit-bloode haar, met een vlammend tomaat-rood was bedekt.
+
+<p>&mdash;Nou, ik heb &apos;t óok warm! pff! zuchtte Karel: &apos;n Sandwich en &apos;n sigaret en &apos;n glas port, of ik verga!
+
+<p>De uitgeputten en dorstenden werden gelaafd, de verhitte gezichten verfrischt door eau de cologne, en het duurde niet lang, of de gesprekken waren weer in vollen gang. Bij de thee&apos;s van de Eva-redactie deed zich altijd dit eigenaardige verschijnsel voor, dat de bezoekers en bezoeksters maar een vluchtig moment op het bureau vertoefden, terwijl daarentegen de &ldquo;stamgasten&rdquo; tot in het oneindige bij elkander bleven zitten, en praatten, totdat zij opeens allen tegelijk opstonden en vertrokken, omdat zij merkten, dat het al zoo &ldquo;vreeselijk&rdquo; laat was.
+
+<p>&mdash;Zeg, wist Sneeuw. Er is een nieuw <pb n=133 id=pb133>boek uitgekomen. Of boek, of brochure, hoe wil je &apos;t noemen. Nou, dat heet: <foreign lang=de>Die Aristokratie der Schönheit</foreign>. En in &apos;t tweede deel daarvan hebben ze &apos;t over de &ldquo;<foreign lang=de>Frauenherrschaft</foreign>&rdquo;.
+
+<p>&mdash;Ha! riep Emilie geïnteresseerd.
+
+<p>&mdash;Wacht, hier heb ik &apos;t programma.
+
+<p>&mdash;De vrouw heeft drie rijken: namelijk van het geweld, van de schoonheid, en van den geest.
+
+<p>&mdash;Hè, van &apos;t geweld! keurde Eva de Bruin af. De vrouw is immers steeds &apos;t zinnebeeld geweest van de zachtheid! &ldquo;Zachtheid zal den dwingland leiden....&rdquo; &ldquo;Schoonste deugd van schoone zielen....&rdquo;
+
+<p>Maar Sneeuw onderbrak onbarmhartig Eva&apos;s ontboezemingen door verder te lezen.
+
+<p lang=de>&mdash;Möglichkeit der Frauenherrschaft.
+
+<p lang=de><corr>&mdash;</corr>Weib kann warten.
+
+<pb n=134 id=pb134><p>&mdash;Kan wachten, o! protesteerde Eva de Bruin.
+
+<p lang=de>&mdash;Wie weit geht die Opferwilligkeit des Mannes?
+
+<p>&mdash;Tot in &apos;t grenzenlooze! riep Robert.
+
+<p>&mdash;Ja, die heeft geen grenzen, omdat die in &apos;t geheel niet bestaat, beet Emilie hem vinnig toe.
+
+<p lang=de>&mdash;Das Weib fängt an zu denken....
+
+<p>&mdash;Ja, <hi>dat doet &apos;t wijf</hi>, zei Emilie, met zooveel overtuiging, dat zij niet eens bemerkte &ldquo;wijf&rdquo; te hebben gezegd, vóor Bonnie misprijzend riep:
+
+<p>&mdash;De vrouw alsjeblieft!
+
+<p lang=de>&mdash;Der Weg zur Herrschaft.
+
+<p>&mdash;Waar is dat boek te krijgen?? vroeg Eva de Bruin gretig.
+
+<p lang=de>&mdash;Frauen aller Lander vereinigt euch!
+
+<pb n=135 id=pb135><p>&mdash;Ja! tot een &ldquo;<foreign lang=de>Frauenstaat</foreign>&rdquo;, riep Emilie geestdriftig.
+
+<p lang=de>&mdash;Stellung des Mannes im Frauenstaat....
+
+<p>&mdash;Zie je wel! triomfeerde Emilie. &apos;n <hi lang=de>Frauenstaat</hi> wórdt bedoeld!
+
+<p>&mdash;Ach, lieve, lieve vrouwen! riep Max, en sloeg de handen in de lucht. Blijf, o, blijf, die je ben! Heusch, de vrouwen kunnen de mannen al ongelukkig genoeg maken....
+
+<p>&mdash;Erken dan, erken, dat &apos;t wel en wee van de man van de vrouw afhankelijk is!
+
+<p>&mdash;Ik erken, dat Adam&apos;s wel en wee van Eva afhankelijk is.
+
+<p>&mdash;Eva is de opperheerscheres!
+
+<p>&mdash;Eva is de opperheerscheres, ja! zei Max. En ik geloof, dat er géen man ter wereld is, die z&apos;n hoofd <corr sic=neit>niet</corr> zou willen buigen voor de vrouw, die hij liefheeft.
+
+<p>&mdash;Max! zei Clara naast hem, zacht, nam <pb n=136 id=pb136>zijn hand, en drukte die spontaan. En die daad van het anders zoo terug-getrokken meisje trof hem zeer; hij wist zelf niet waarom, zoodat hij blij was, toen het kind Karel in helsche kreten verviel:
+
+<p>&mdash;Hoera, Eva! leve, leve Eva! Eva, hoch!
+
+<p>Jan nam met overdreven hoffelijkheid een roos uit de vaas, die altijd op Max&apos; schrijfbureau stond, naderde Eva de Bruin, en bood haar, potsierlijk-gebarend, de bloem.
+
+<p>&mdash;O! o! riep Eva, gelukzalig.
+
+<p>&mdash;Ja, goed! riep Sneeuw, Eva is nu de heerscheres in het rijk der schoonheid, maar wie is de heerscheres in &apos;t rijk des geestes? (Niemand die zich ooit voor Eva de Bruin geneerde.)
+
+<p>&mdash;Eleonore! riep Max onmiddellijk. Hij zag niet de kleur, die bij het hooren van <pb n=137 id=pb137>dien naam Clara&apos;s heele gelaat overtrok.
+
+<p>&mdash;Ha, ja! Eleonore! riep Sneeuw.
+
+<p>&mdash;Ha, ja! Eleonore! bauwde Karel na. De groote geest!
+
+<p>&mdash;De chroote cheest! maakte Mientje het nog mooier.
+
+<p>&mdash;Mientje! riep Max streng.
+
+<p>&mdash;Ik spot niet! zei Mientje, zich verschrikt verdedigend.
+
+<p>&mdash;Ik vind juffrouw van Aalst, &apos;n merkwaardig mensch, zei Emilie met waardeering. Veel te goed, om door kinderen belachen te worden.
+
+<p>&mdash;Ik acht haar hoog, zei Gerrie, ze is zoo verstandig, en toch ook zoo zacht.
+
+<p>&mdash;En ik vind &apos;t zoo flink van haar, dat ze ongetrouwd wil blijven! bewonderde Eva de Bruin. Ze zegt ronduit, dat &apos;t huwelijk voor háar &apos;t ideaal niet is! <pb n=138 id=pb138>Verbeeld je ongetrouwd willen blijven!
+
+<p>&mdash;Willen! willen! wacht maar even! riep Jan. Hij krabbelde wat op een stukje papier, en kondigde aan:
+
+<p>&mdash;Lied op Eleonore.
+
+<p>Luisteren jullie allemaal? En hij declameerde:
+
+
+<lg>
+    <l>Omdat haar niemand heeft verkoren,
+    <l>Heeft zij de mannen afgezworen.
+       <l>O! Eleonore!
+    <l>Maar komt er een met lonk en lach,
+    <l>Dan trouwt zij morgen aan den dag,
+       <l>Eleonore!
+       <l>Leonore!
+       <l>Lenore!
+       <l>Nore,&mdash;
+       <l>Ach!
+</lg>
+
+
+<p>Allen lachten, en deden uitroepen van bewondering om Jan&apos;s vernuft en vlugheid van rijmen, maar Max, met flikkerende oogen, stond opeens voor Jan, en rukte hem het stukje papier uit de handen.
+
+<pb n=139 id=pb139><p>&mdash;Bah! lafaard! stiet hij uit.
+
+<p>Er was een oogenblikkelijke ontsteltenis. Jan keek verbouwereerd, Sneeuw suste: Nou, nou! Eva de Bruin bleef nerveus doorgichelen, Emilie gaf Max gelijk, Mientje en Gerrie praatten samen: Was dat nou zoo erg? &apos;n grap! Ja, wèl erg, ze moesten zoo iets op Eleonore niet zeggen. Nou, juist, omdat d&apos;r geen schijntje van waarheid in is....
+
+<p>Max&apos; lippen beefden nog van plotselinge ontroering; hij hoorde het gekakel wel om zich heen, maar hij nam er geen notitie van. Met bitsen blik bezag hij nog Jan, terwijl hij het papier in elkaar frommelde, en het met een nijdigen ruk in de prullenmand wierp. Toen keerde hij zich om, en kreeg een schok, die hem van het hoofd tot de voeten doorliep. Want daar stond <pb n=140 id=pb140>Clara, met een donkeren blos op het gezicht, en de treurige oogen vol tranen. Zij had zijn geheim geraden.... maar <hi>hij</hi> ook het háre.... <hi>zij</hi> was de Eva, de schrijfster der brieven.... en zij had hem lief....
+
+<p>Hij kon niets zeggen, niets doen; de aandoening klopte hem door het bloed, en hij vreesde door een enkel woord zijn gevoelens te verraden. Eerst moest die troep hier weg zijn, dan....
+
+<p>Hij ging staan voor het raam, en tuurde in de straat, zóo weg in zijn gedachten, dat hij geen acht gaf op de schouderkloppen van Karel:
+
+<p>&mdash;Kom, Max, boy, ben je nou gek? of op de troostredenen van Sneeuw, dat Jan zoo&apos;n vreeselijk berouw had, of op het gekerm van Jan zelf, die zijn stem had teruggekregen, en schreeuwde, dat hij het nooooit weer zou doen....
+
+<pb n=141 id=pb141><p>Hij lette op niets, totdat de vreemde nevel uit zijn hersens was weg-gedreven, en hij weer denken kon.
+
+<p>Het was hem, of hij was ondergedoken geweest in een donkerte van raadsel en twijfel, en nu plotseling weer boven-kwam, verhelderd, verruimd, in het besef, dat hij zich had vergist.... maar dat zijn vergissing schitterend hersteld worden kon....
+
+<p>Wat vond hij het nu zonderling te bedenken, dat hij gewaand had, deze oudere, moederlijke, al te onafhankelijke vrouw lief te hebben.... terwijl naast hem het bloeiende jonge meisje stond, dat hem helpen en leiden wou, en het zeker beter zou kunnen, omdat zij met hem gelijk in jaren was, en hem dus beter begreep....
+
+<p>Hoe dwaas, hoe dwaas, dat een menschelijke geest zoo gemakkelijk op dwaalwegen <pb n=142 id=pb142>komt.... En wat een groot geluk dan, te merken, dat alles toch terecht komen zal....
+
+<p>Goed kind, sterk kind.... dat haar liefde verborgen hield, zoolang als het noodig was.... die niets vroeg voor zichzelve, en alleen maar wilde, dat <hi>hij</hi> een beter, een mooier, een grooter mensch worden zou....
+
+<p>Ziezoo nu was hij weer kalm, heel kalm en tevreden. Hij wendde zich naar het gezelschap, dat zich nog steeds uitputte, om hem tot bedaren te brengen.
+
+<p>&mdash;Soedah! zei hij. Zanik toch niet door. Ik ben &apos;t al lang weer vergeten.
+
+<p>&mdash;O, zoo! nou, zég dat dan!
+
+<p>&mdash;Waarom sta je dan zoo van lotje getikt uit &apos;t raam te kijken?
+
+<p>&mdash;Gaat &apos;t jóu wat aan?
+
+<p>&mdash;Nou, soedah! riep ook Sneeuw. Niet <pb n=143 id=pb143>meer over spreken! Mientje, mag &apos;k jou nog &apos;s &apos;n sandwich presenteeren?
+
+<p>&mdash;Hemel, ik dank je wel, ik heb er geloof ik, al vijfentwintig gegeten....
+
+<p>&mdash;Excusez du peu!
+
+<p>&mdash;Ik moet ook trouwens naar huis. Hemel, &apos;t is al half zes.
+
+<p>&mdash;Hemel! &apos;t is al half zes! riepen Gerrie en Emilie. En in een oogenblik verdrongen de meisjes elkaar voor den spiegel, om de hoeden op te zetten, zij trokken de handschoenen aan, en accepteerden het geleide van een cavalier, of sloegen het beleefdelijk af.
+
+<p>&mdash;Clara, ik breng jou thuis, zei Max, zonder te vragen, of zij het goed vond, en Clara antwoordde niet. Zij voelde zich zoo vreemd bewogen; zij wist, dat zij aan Max haar liefde verraden had, zij had begrepen, <pb n=144 id=pb144>dat hij van een andere hield.... en toch was zij aangedaan met een lichte vreugde, terwijl zij diep bedroefd was tegelijk....
+
+<p>Zij kon zijn geleide niet weigeren; zij vertrouwde zich nu niet genoeg om een luchtigen, schertsenden toon aan te slaan. Zij was wel veel liever rustig alleen naar huis gegaan, maar zij voelde zich zóo verlegen nú tegenover hem, dat zij zonder eenig protest zijn gezelschap aanvaardde. Wat zou hij zeggen?.... Hij zóu iets zeggen, dat begreep zij. Maar zij zou het niet toe-laten o, nooit! dat hij haar troostte met de banale, ijdele, ongemeende woorden, die hij, zij wist het, voor alle voorkomende gelegenheden in voorraad had. Liever.... liever, dan dat hij zóo tot haar sprak, zou zij breken met hem, zag zij hem nooit <pb n=145 id=pb145>meer terug. Zij was geen Eva de Bruin, zelfs geen Gerrie, die zich deemoedig tevreden stelde, met de kruimpjes, die er afvielen en overbleven van zijn genegenheid. O, als hij durfde! als hij zóo tegen haar durfde spreken, als tegen de anderen!....
+
+<p>Zij trilde van opgewondenheid en nervositeit, en toch beheerschte zij zich uit alle macht. Gelukkig, dat niemand iets van het incident tusschen Max en haar had gemerkt; zij hadden het allen veel te druk met Max gehad, Max was altijd het middelpunt....
+
+<p>Onder rumoerig gelach en gescherts waren de meisjes en jongelui uiteen gegaan. Luide groeten riepen zij nog elkander na, met grapjes op Eva de Bruin, die telkens nog omkeek naar Max, maar te veel haast had, om thuis te komen, daar haar Pa met <pb n=146 id=pb146>eten niet wachten wou, en zij Max dus niet na-loopen kon.... en op Emilie, die Robert stevig onder den arm had genomen, en hem weg-voerde in haar veilige hoede.... Maar Clara kon niet mee-lachen en pret-maken, zooals anders; zij was niet vroolijk; het tintelde tot in haar vingertoppen van een vreemden angst.... zij was zóo bevangen door het besef, dat hij haar liefde voor hem nu wist, dat zij met neergeslagen oogen voort-liep, in een sterken aandrang tot schreien.
+
+<p>&mdash;Clara, zei Max, toen de anderen uit het gezicht verdwenen waren. Ik heb iets in je houding gezien, iets, dat me moed geeft, om zoo tegen je te spreken, als ik nu ga doen, Clara. Ik heb je....
+
+<p>Een snelle, sterke blos bekleurde haar heele gezicht. Zou hij toch, o, zou hij toch....
+
+<pb n=147 id=pb147><p>&mdash;Stil, Max, zeg niets verder, vroeg ze zacht. Je mág niet zoo tegen me spreken.
+
+<p>&mdash;Claartje, wat bedoel je?
+
+<p>&mdash;Ik ben niet als die anderen allemaal, barstte zij uit. En als je &apos;n gentleman was, dan zou je er niet op letten, dat ik in &apos;n onbewaakt oogenblik me heb verraden. Nee, daar zou je niet op letten. &apos;t Is leelijk van je, leelijk, te zeggen, dat je daardoor &ldquo;moed&rdquo; hebt gekregen, ik vind &apos;t geen moed, ik vind &apos;t lafheid, laagheid!
+
+<p>&mdash;Clara, je vergist je. Zie me &apos;s aan, kind?
+
+<p>De toon van zijn stem was zoó dringend-ernstig, dat zij onwillekeurig de oogen naar hem opsloeg. En tot haar verbazing, maar ook tot haar vreugde zag zij, dat er niets van overmoed was in zijn gezicht. De uitdrukking in zijn oogen verwarde haar: <pb n=148 id=pb148>zij had die er nog nooit in gezien: zijn blik was zoo vriendelijk, zoo teeder bijna.... Maar zij begreep het nog niet.... er was toch immers een andere?....
+
+<p>&mdash;Ik had niet moeten spreken van moed, ik had moeten zeggen, dat ik zoo dankbaar ben, zoo dankbaar, voor wat &apos;k opeens heb begrepen. Clara, laten we geen preutsche praatjes houden; jij hebt me lief.... mag ik dat zoo maar zeggen? En ik heb jóu lief, Clara.
+
+<p>&mdash;O, Max, Max, hoe kan je dat nu zeggen, terwijl je zooeven mij openlijk hebt getoond....
+
+<p>&mdash;Wat?
+
+<p>&mdash;Hoe je dacht over....
+
+<p>&mdash;Over Eleonore?
+
+<p>Zij wendde haar gezicht van hem af.
+
+<p>&mdash;En toch heb &apos;k haar niet lief, Claartje, <pb n=149 id=pb149>maar jou. Kan je me begrijpen? of wil ik later alles eens duidelijker zeggen?
+
+<p>&mdash;Nee, nu, nu.
+
+<p>&mdash;Ik.... ik dacht.... ik verbeeldde me, dat ik van Eleonore hield. En toch wás &apos;t niet zoo. Dat is zoo iets vreemds, zoo iets wonderlijks in me geweest, dat ik &apos;t mezelf nog niet goed kan verklaren. Hoe zou &apos;t mogelijk zijn, dat ik haar liefhad, zij zoo wijs, zoo koel, en.... zooveel ouder dan ik. En toch, ik begrijp m&apos;n vergissing ook weer wèl. Wat ik in haar zocht, was, wat ik bij geen enkele vrouw nog had gevonden: ernst, toewijding, onzelfzuchtige liefde, en vooral hoopte ik van haar: steun, leiding, hulp. Maar <hi>liefde</hi> van mijn kant, was &apos;t niet. En nu moet &apos;k je wat zeggen, Clara. Maar je moet goed luisteren. Dat verlangen van mij naar ernst in een liefdesverhouding, <pb n=150 id=pb150>die behoefte aan hulp, die wil om op te zien, naar de vrouw, van wie ik houd, dat alles, wat beter in me is, dan &apos;t lage, alledaagsche van m&apos;n natuur, dat alles heb <hi>jij</hi> in me opgewekt, Clara.
+
+<p>&mdash;Ik?
+
+<p>&mdash;Ja.... Ben jij dan de &ldquo;Eva&rdquo;,&mdash;de schrijfster van de brieven niet?
+
+<p>Zij boog het hoofd zoo diep, dat hij niets van haar gezicht kon zien, dan een streep van haar hoog-blozende wang.
+
+<p>&mdash;En toen je me zoo aankeek, straks, je weet wel, toen had er opeens &apos;n omkeer in me plaats. Al m&apos;n gedachten en gevoelens wervelden dol door elkaar. Een oogenblik was ik totaal de kluts kwijt. En toen opeens werd &apos;t me zoo helder: dat ik de schrijfster van die brieven had liefgehad.... al lang.... al zoo lang....
+
+<pb n=151 id=pb151><p>&mdash;O, is dat waar?....
+
+<p>&mdash;Ja! dat ik haar, haar-alleen, en al lang had liefgehad.... Lieveling.... lieveling.... geloof je me?
+
+<p>&mdash;Ja.... ja.... ik kan niet anders, dan je gelooven.... Max.
+
+<p>&mdash;En dat ik zocht naar de geest, die die brieven schreef, dat weet &apos;k nu. Ik zocht, ik zocht.... en toen, ja! toen vergiste ik me, en dacht, dat Eleonore....
+
+<p>&mdash;&apos;t Is geen wonder.... Eleonore is zoo veel....
+
+<p>&mdash;Juist, juist, omdat ze zoo veel meer dit en dat is, dan jij.... daarom, dáárom is ze voor mij niet geschikt. Begrijp je dat?
+
+<p>&mdash;Ik heb de goede maat? vroeg zij, en keek schalks lachend tot hem op.
+
+<p>Het trof hem, hoe mooi en lief zij eensklaps <pb n=152 id=pb152>werd, nu zij zoo blij lachte.... Zij had dus ook nog een anderen kant, dan ernst alleen.... En dat was goed voor hem, héel goed,&mdash;veel beter dan &ldquo;degelijkheid&rdquo;, zonder meer, die hem toch noodzakelijk op den duur moest vervelen....
+
+<p>&mdash;Schat!.... fluisterde hij.
+
+<p>Zij bloosde, en boog het hoofd, maar keek hem toch weer aan, en hij vond, dat zij al mooier en mooier werd.
+
+<p>&mdash;Had je dan gedacht, dat Eleonore de brieven schreef?
+
+<p>&mdash;Ja.... nee.... dat heb ik nooit in ernst gedacht. Misschien, als &apos;k me precies rekenschap had gegeven van alles, zou &apos;k zelf wel hebben ingezien, dat zij toch niet was, zooals ik verlangde. Zij kan niet jong en vroolijk meer zijn.... En dat heb &apos;k toch óok noodig; daar zou &apos;k m&apos;n heele <pb n=153 id=pb153>leven toch niet buiten kunnen. Gelukkig, dat Eleonore wijzer was dan ik....
+
+<p>&mdash;Hoe dan?....
+
+<p>&mdash;Wel, omdat ze me, goddank, heeft afgewezen....
+
+<p>&mdash;O! heb je haar....
+
+<p>&mdash;Ja.... Stelt je dat teleur, lieveling?
+
+<p>&mdash;Nee.... ik....
+
+<p>&mdash;Ik geloof wel &apos;n beetje? Maar wees er niet bedroefd om, hoor? Je moet er dankbaar voor zijn, dat je overmoedige Max, met zijn &ldquo;kleine ijdelheid&rdquo;, je weet wel, hè?.... zoo&apos;n vernederende ondervinding heeft opgedaan....
+
+<p>&mdash;&apos;t Is toch niet zoo heel prettig, te weten, dat je alleen faute de mieux....
+
+<p>&mdash;O, maar, kind! kind! wat vertel je nu?
+
+<p>&mdash;Ja: als zij je maar had aangenomen, dan....
+
+<pb n=154 id=pb154><p>&mdash;Dan zouden we &apos;n tijdje geëngageerd zijn geweest, ja! Maar lang had ik &apos;t niet uitgehouden. Dat weet ik nu wel. Liefje, kan jij óok al zoo echt-meisjesachtig jaloersch zijn? Vermakelijk!
+
+<p>&mdash;Lach jij maar.... jij begrijpt niet, dat ik me eigenlijk vernederd door je aanzoek moet voelen.
+
+<p>&mdash;Jij? jij? vernederd door &apos;n aanzoek van mij? van mij, Max? Grappig kind!
+
+<p>En hij barstte uit in zoo&apos;n schaterenden lach, dat zij onmogelijk haar gezicht ernstig kon houden onder zijn joligen blik, en ten slotte maar mee-lachte.
+
+<p>&mdash;Hoor, zei hij, nu weer ernstiger. Als er ook maar iets in was, dat onaangenaam voor jou kon zijn, dacht je dan, dat ik er zoo maar luchtig met jou over spreken zou? Dan zweeg ik er in dit oogenblik toch over, kind? <pb n=155 id=pb155>Nee, kom, laten we nou blij zijn, laten we nou vroolijk zijn.... D&apos;r ontbreekt niets aan m&apos;n geluk, dan één enkel ding....
+
+<p>&mdash;En wat?
+
+<p>&mdash;&apos;n Zoen.
+
+<p>&mdash;Die krijg je straks, hoor?
+
+<p>&mdash;Lieveling....
+
+<p>&mdash;O, Max, wat kijk je sentimenteel....
+
+<p>&mdash;Ja, dat kan &apos;k óok wel. Maar pas nu maar op. Ben je niet bang, dat ik je al je vinnige reprimandes en boozigheden betaald zetten zal?
+
+<p>&mdash;Nee, daar ben &apos;k heelemaal niet bang voor.
+
+<p>&mdash;Waarom niet?
+
+<p>&mdash;Omdat ze je veel te veel goed hebben gedaan.
+
+<p>&mdash;Heusch, kan je dat merken? vroeg hij, jongensachtig.
+
+<pb n=156 id=pb156><p>&mdash;Goeie, lieve jongen, zei ze, en stak spontaan even haar arm door den zijne. Wat is &apos;t goed, o, wat is &apos;t goed, dat ik me over jou heb ontfermd.
+
+<p>&mdash;O, dat is edel!
+
+<p>&mdash;Spot nou niet, hoor, dat wil ik niet.
+
+<p>&mdash;O, nee, Eva.
+
+<p>&mdash;Ja, dat is wel goed, noem me maar Eva. Dat herinnert je er aan, wat ik eigenlijk voor je ben....
+
+<p>&mdash;Wat dan?
+
+<p>&mdash;&apos;n Meesteres.
+
+<p>&mdash;Uitstekend! uitstekend!
+
+<p>&mdash;Nee, zeg, Max.... we zijn nu haast thuis.... zeg, ben je nooit boos geweest om die brieven?
+
+<p>&mdash;Woedend, dikwijls! Verontwaardigd!
+
+<p>&mdash;Ja, ik kon &apos;t niet helpen....
+
+<p>&mdash;Nee, maar m&apos;n woede bewijst immers, <pb n=157 id=pb157>hoe zeer ik je woorden noodig had? Troost je maar.... heb maar geen spijt.
+
+<p>&mdash;O, spijt? Nooit. Ik heb alleen misschien spijt....
+
+<p>&mdash;Waarover dan?
+
+<p>&mdash;Dat &apos;k zoo onweerhouden blijk heb gegeven, hoeveel ik van je hield....
+
+<p>&mdash;Houd, hoop ik?
+
+<p>&mdash;Maar &apos;k dacht ook niet, dat je óoit zou weten....
+
+<p>&mdash;Ja, daar heb je &apos;t nou! Je blijft toch vrouw, &apos;n echte vrouw, en je verraadt je natuurlijk toch in zoo&apos;n geval. Daar ben je vrouw voor....
+
+<p>&mdash;Nee, hoor hem!
+
+<p>&mdash;Maar &apos;t spijt je toch niet, dat &apos;k nu weet, wie je <corr sic=ben>bent</corr>, en gelukkig gemaakt word door jou?
+
+<p>&mdash;Nee, nee, dat niet!
+
+<p>&mdash;Nou, dan geen muizenissen meer.... Of is er werkelijk nóg wat?
+
+<pb n=158 id=pb158><p>&mdash;Ja, ik heb medelijden met....
+
+<p>&mdash;Met Eva de Bruin zeker? Ja, dat is &apos;n moeilijk geval; ik ben nu eigenlijk met twee meisjes geëngageerd,&mdash;en met twee Eva&apos;s nog wel!
+
+<p>&mdash;Spot maar. Nee, met die heb ik geen medelijden, maar met Gerrie.
+
+<p>&mdash;Gerrie is &apos;n goed en aardig kind, maar toch niets voor mij?
+
+<p>&mdash;Maar heb je dan geen medelijden met haar? Ze houdt toch van je?....
+
+<p>&mdash;En wie weet, hoeveel er houden van jou, die jij ongelukkig maakt, door met <hi>mij</hi> te trouwen?
+
+<p>&mdash;Hándige jongen....
+
+<p>&mdash;Ik ben niet handig.... Ik wil alleen maar niet meer over allerlei kwesties praten.... Ik wil gelukkig zijn! Genieten van m&apos;n geluk!....
+
+
+
+
+
+<pb n=159 id=pb159>
+</body>
+<back id=backmatter>
+<div1 id=ads1 type=Advertisements>
+<head>In VEEN&apos;s GELE BIBLIOTHEEK verschijnt:</head>
+
+
+<list>
+    <item>ANNA DE SAVORNIN LOHMAN      <hi rend=bold>Mara-Liefde.</hi>
+    <item>STIJN STREUVELS              <hi rend=bold>De Oogst.</hi>
+    <item>MELATI VAN JAVA              <hi rend=bold>In Extremis.</hi>
+    <item>Louis COUPERUS               <hi rend=bold>Fidessa.</hi>
+    <item>STIJN STREUVELS              <hi rend=bold>De Werkman.</hi>
+    <item>ELISE SOER                   <hi rend=bold>Tot Hoogen Prijs.</hi>
+</list>
+
+
+<p><hi rend=bold>Prijs fl. 0.50 gebonden.</hi>
+
+
+
+<pb n=160 id=pb160>
+<div1 id=ads2>
+<head>GUIDO GEZELLE, Dichtwerken,</head>
+
+
+<p>10 deelen.
+
+<p>inh. &florin;&nbsp;3.75, geb. &florin;&nbsp;5.50, geb. in leer &florin;&nbsp;7.50.
+
+<p>De uitgave bevat: Dichtoefeningen&mdash;Kerkhofblommen&mdash;Gedichten, Gezangen en Gebeden, Kleengedichten&mdash;Liederen, Eerdichten en Reliqua&mdash;Tijdkrans (2 deelen)&mdash;Reimsnoer (2 deelen)&mdash;Hiawadha&apos;s Lied&mdash;Laatste Verzen.
+
+<p>Afzonderlijke deelen worden uit deze uitgave niet geleverd.
+
+<p>Deze uitgave is nu zoo goedkoop gesteld, dat het voor niemand meer een bezwaar kan zijn, ze aan te schaffen. Vroeger &florin;&nbsp;17.20 ing. &florin;&nbsp;22.&mdash;geb., <hi rend=bold>thans</hi> voor &florin;&nbsp;3.75 ing., &florin;&nbsp;5.50 geb. linnen, &florin;&nbsp;7.50 gebonden leer.
+
+<p>In de Belgische Editie zijn nog verkrijgbaar: Dichtoefeningen&mdash;Kerkhofblommen&mdash;Gedichten, Gezangen en Gebeden, Kleengedichtjes&mdash;Liederen, Eerdichten et Reliqua à &florin;&nbsp;1.50 per deel ing., &florin;&nbsp;1.90 gebonden.
+
+<p>Tijdkrans&mdash;Rijmsnoer à &florin;&nbsp;2.50 per deel ing.; &florin;&nbsp;2.90 gebonden.
+
+<p><hi rend=bold>Verzen</hi>, 2<hi rend=sup>e</hi> druk ing. &florin;&nbsp;3.90 geb. &florin;&nbsp;4.50.
+
+<p><hi rend=bold>Gedichten</hi>, samengest. door Dr. J. Aleida Nijland, ing. &florin;&nbsp;1.90, geb. &florin;&nbsp;2.50, in leer geb. &florin;&nbsp;3.50
+
+
+
+<pb n=161 id=pb161>
+<div1 id=ads3>
+<head>Van Louis Couperus verscheen:</head>
+
+
+<p><table id=t1>
+<row><cell cols=2><hi rend=bold>Antieke Verhalen, van Goden en Keizers, van Dichters en Hetaeren.</hi> <cell>&florin;&nbsp;2.50&nbsp;ing. <cell>&florin;&nbsp;2.90&nbsp;geb.
+<row><cell cols=2><hi rend=bold>Van en over mijzelf en anderen.</hi> <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell cols=2><hi rend=bold>Aan den Weg der Vreugde.</hi> <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell cols=2><hi rend=bold>Van Oude Menschen, de dingen die voorbijgaan</hi>, 2 dln. <cell>&florin;&nbsp;4.90 ing. <cell>&florin;&nbsp;5.50 geb.
+<row><cell cols=2><hi rend=bold>De Berg van Licht</hi>, 3 deelen à <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell cols=2><hi rend=bold>Dyonyzos</hi>, Bandteekening van B. W. Wierink. <cell>&florin;&nbsp;1.50 ing. <cell>&florin;&nbsp;1.90 geb.
+<row><cell cols=2><hi rend=bold>God en Goden</hi>, Bandteekening van J. Toorop. <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell cols=2><hi rend=bold>Over Lichtende drempels</hi>, Bandteekening van Jules de Praetere <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 ing.
+<row><cell cols=2><hi rend=bold>Majesteit</hi>, 5<hi rend=sup>e</hi> uitgave. Bandteekening van B<corr>.</corr> W. Wierink. <cell>&florin;&nbsp;1.50 ing. <cell>&florin;&nbsp;1.90 geb.
+<row><cell cols=2><hi rend=bold>Wereldvrede</hi>, 2<hi rend=sup>e</hi> uitg. <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell cols=2><hi rend=bold>Hooge Troeven</hi>, Tweede druk. Bandteekening van H. P. Berlage Nzn. <cell>&florin;&nbsp;1.50 ing. <cell>&florin;&nbsp;1.90 geb.
+
+<pb n=162 id=pb162>
+<!-- Louis Couperus (vervolg). -->
+
+<row><cell><hi rend=bold>De Boeken der kleine Zielen.</hi> <cell>Boek I. De kleine Zielen. <cell>&florin;&nbsp;4.90 ing. <cell>&florin;&nbsp;5.50 geb.
+<row><cell><cell><ditto>Boek</ditto> II. Het late Leven. <cell>&florin;&nbsp;4.25 ing. <cell>&florin;&nbsp;4.90 geb.
+<row><cell><cell><ditto>Boek</ditto> III. Zieleschemering. <cell>&florin;&nbsp;4.25 ing. <cell>&florin;&nbsp;4.90 geb.
+<row><cell><cell><ditto>Boek</ditto> IV. Het Heilige Weten. <cell>&florin;&nbsp;4.90 ing. <cell>&florin;&nbsp;5.50 geb.
+<row><cell cols=4>In pergament gebonden, per deel &florin;&nbsp;10.&ndash;
+<row><cell cols=4>Bandteekening van Theo Neuhuijs.
+<row><cell cols=2><hi rend=bold>De Stille Kracht</hi>, 2e druk. Bandteekening van B. W. Wierink. <cell>&florin;&nbsp;1.50 ing. <cell>&florin;&nbsp;1.90 geb.
+<row><cell cols=2><hi rend=bold>Langs Lijnen van Geleidelijkheid</hi>, 2 deelen. Bandteekening van J. G. van Caspel. <cell>&florin;&nbsp;4.90 ing. <cell>&florin;&nbsp;5.50 geb.
+<row><cell cols=2><hi rend=bold>Eene Illuzie</hi>, Tweede druk. Bandteekening van K. Sluijterman. <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell cols=2><hi rend=bold>Babel</hi>, Bandteekening van Jan Toorop. <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell cols=2><hi rend=bold>Fidessa</hi>, Tweede druk, Pracht-Editie. Met teekening van Jan Toorop. <cell>&florin;&nbsp;2.90 ing. <cell>&florin;&nbsp;3.90 geb.
+<row><cell cols=2><hi rend=bold>Psyche</hi>, Tweede druk, Pracht-Editie. Met teekening van Jan Toorop <cell>&florin;&nbsp;3.50 ing. <cell>&florin;&nbsp;4.50 geb.
+
+<pb n=163 id=pb163>
+<!-- Louis Couperus (vervolg). -->
+
+<row><cell cols=2><hi rend=bold>Psyche</hi>, 4<hi rend=sup>e</hi> uitgave (in het gewone formaat) geïllustreerd. Bandteekening van H. P. Berlage Nzn. <cell>&florin;&nbsp;1.50 ing. <cell>&florin;&nbsp;1.90 geb.
+<row><cell cols=2><hi rend=bold>Metamorfoze</hi>, Met portret van H. J. Haverman. <cell>&florin;&nbsp;1.50 ing. <cell>&florin;&nbsp;1.90 geb.
+<row><cell cols=4>Bandteekening van H. P. Berlage Nzn.
+<row><cell cols=2><hi rend=bold>Extaze</hi>, Derde druk <cell>&florin;&nbsp;1.50 ing. <cell>&florin;&nbsp;1.90 geb.
+<row><cell cols=4>Bandteekening van H. P. Berlage Nzn.
+<row><cell cols=2><hi rend=bold>Noodlot</hi>, Derde druk <cell>&florin;&nbsp;1.50 ing. <cell>&florin;&nbsp;1.90 geb.
+<row><cell cols=4>Bandteekening van H. P. Berlage Nzn.
+<row><cell cols=2><hi rend=bold>Reis-Impressies</hi>, Tweede druk. <cell>&florin;&nbsp;1.90 ing. <cell>&florin;&nbsp;2.50 geb.
+<row><cell cols=2><hi rend=bold>Orchideeën</hi>, Tweede druk. <cell>&florin;&nbsp;1.90 ing. <cell>&florin;&nbsp;2.50 geb.
+<row><cell cols=4>Bandteekening van L. W. R. Wenckebach.
+<row><cell cols=2><hi rend=bold>De Verzoeking van den H<corr sic=",">.</corr> Antonius</hi>, <cell>&florin;&nbsp;1.90 ing. <cell>&florin;&nbsp;2.50 geb.
+<row><cell cols=2><hi rend=bold>Een Lent van Vaerzen</hi>, Tweede druk. (Gedichten) <cell>&florin;&nbsp;1.40 ing. <cell>&florin;&nbsp;1.90 geb.
+<row><cell cols=4>Bandteekening van K. Sluijterman.
+<row><cell cols=2><hi rend=bold>Williswinde</hi> (Gedichten). <cell>&florin;&nbsp;1.40 ing. <cell>&florin;&nbsp;1.90 geb.
+<row><cell cols=4>Bandteekening van L. W. R. Wenckebach.
+</table>
+
+
+<pb n=164 id=pb164>
+<div1 id=ads4>
+<head>Van Stijn Streuvels verscheen:</head>
+
+
+<p>
+<table id=t2>
+<row><cell><hi rend=bold>De Mourlons</hi>, naar het Fransch van Bouché. <cell>&florin;&nbsp;3.25 ing. <cell>&florin;&nbsp;3.90 geb. <cell>
+<row><cell><hi rend=bold>Kleine Verhalen</hi>, naar het Noorsch van Björnson <cell> <cell>&florin;&nbsp;1.90 geb. <cell>
+<row><cell><hi rend=bold>Reinaert de Vos</hi>, <cell>Velijn papier &florin;&nbsp;32.&ndash;; <cell>Holl. &florin;&nbsp;60.&ndash;; <cell>Japansch &florin;&nbsp;100.&ndash;
+<row><cell><hi rend=bold>Najaar</hi>, 2 bundels à <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb. <cell>
+<row><cell><hi rend=bold>Open Lucht</hi>. <cell>&florin;&nbsp;1.90 ing. <cell>&florin;&nbsp;2.25 geb. <cell>
+<row><cell><hi rend=bold>Stille Avonden</hi>, Tweede druk, <cell>&florin;&nbsp;1.90 ing. <cell>&florin;&nbsp;2.25 geb. <cell>
+<row><cell><hi rend=bold>De Vlaschaard</hi>, Vierde Druk, <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb. <cell>Pracht-Editie &florin;&nbsp;10.&ndash;
+<row><cell><hi rend=bold>Het Uitzicht der Dingen.</hi> <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb. <cell>
+<row><cell><hi rend=bold>Bloemlezing</hi>, (door Mej. Dr. J. Aleida Nijland) <cell>&florin;&nbsp;1.50 ing. <cell>&florin;&nbsp;1.90 geb. <cell>
+<row><cell><hi rend=bold>Dorpsgeheimen</hi>, 2 bundels à <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb. <cell>
+<row><cell><hi rend=bold>Minnehandel</hi>, Twee deelen <cell>&florin;&nbsp;4.90 ing. <cell>&florin;&nbsp;5.50 geb. <cell>
+<row><cell><hi rend=bold>Doodendans</hi>. <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb. <cell>
+
+<pb n=165 id=pb165>
+<!-- Stijn Streuvels (vervolg). -->
+
+<row><cell><hi rend=bold>Dagen,</hi> Tweede druk <cell>&florin;&nbsp;1.90 ing. <cell>&florin;&nbsp;2.25 geb. <cell>
+<row><cell><hi rend=bold>Lenteleven,</hi> Vijfde druk <cell>&florin;&nbsp;1.90 ing. <cell>&florin;&nbsp;2.25 geb. <cell>Luxe-Editie &florin;&nbsp;25.&ndash;
+<row><cell><hi rend=bold>Langs de Wegen</hi>, Tweede druk <cell>&florin;&nbsp;1.90 ing. <cell>&florin;&nbsp;2.25 geb. <cell>
+<row><cell><hi rend=bold>Zonnetij</hi>, Derde druk <cell>&florin;&nbsp;1.90 ing. <cell>&florin;&nbsp;2.25 geb. <cell>
+<row><cell><hi rend=bold>Zomerland</hi>, Derde druk <cell>&florin;&nbsp;1.90 ing. <cell>&florin;&nbsp;2.25 geb. <cell>
+<row><cell><hi rend=bold>Gokkel en Hinkel</hi>, met platen <cell>&florin;&nbsp;0.90 ing. <cell>&florin;&nbsp;1.25 geb. <cell>
+<row><cell><hi rend=bold>De witte Zandweg</hi>. <cell>&florin;&nbsp;0.25 ing. <cell> <cell>
+<row><cell><hi rend=bold>Het Kerstekind</hi>. <cell>&florin;&nbsp;0.90 ing. <cell>&florin;&nbsp;1.25 geb. <cell>
+<row><cell><hi rend=bold>Reinaert de Vos</hi>, voor kinderen <cell>&florin;&nbsp;1.50 ing. <cell>&florin;&nbsp;1.90 geb. <cell>
+<row><cell><hi rend=bold>André de Ridder</hi>, Stijn Streuvels, met tal van platen. <cell>&florin;&nbsp;1.50 ing. <cell>&florin;&nbsp;1.90 geb. <cell>
+</table>
+
+
+<pb n=166 id=pb166>
+<div1 id=ads5>
+<head>Van Jeanne Reyneke van Stuwe verscheen:</head>
+
+
+<p>
+<table id=t3>
+<row><cell><hi rend=bold>Mater Triumphatrix.</hi> <cell>&florin;&nbsp;3.90 ing. <cell>&florin;&nbsp;4.50 geb.
+<row><cell><hi rend=bold>De &ldquo;Arme&rdquo; Vrouw.</hi> <cell>&florin;&nbsp;3.90 ing. <cell>&florin;&nbsp;4.50 geb.
+<row><cell><hi rend=bold>Eva.</hi> <cell>&florin;&nbsp;3.90 ing. <cell>&florin;&nbsp;4.50 geb.
+<row><cell><hi rend=bold>Huize ter Aar.</hi> <cell>&florin;&nbsp;4.90 ing. <cell>&florin;&nbsp;5.50 geb.
+<row><cell><hi rend=bold>Het Leege Leven.</hi> <cell>&florin;&nbsp;4.90 ing. <cell>&florin;&nbsp;5.50 geb.
+<row><cell><hi rend=bold>Arl.</hi> <cell>&florin;&nbsp;4.90 ing. <cell>&florin;&nbsp;5.50 geb.
+<row><cell><hi rend=bold>Achter de Wereld.</hi> <cell>&florin;&nbsp;4.90 ing. <cell>&florin;&nbsp;5.50 geb.
+<row><cell><hi rend=bold>Vrije Kracht.</hi> <cell>&florin;&nbsp;4.90 ing. <cell>&florin;&nbsp;5.50 geb.
+<row><cell><hi rend=bold>De Illusie der doode Menschen.</hi> <cell>&florin;&nbsp;4.90 ing. <cell>&florin;&nbsp;5.50 geb.
+<row><cell><hi rend=bold>Naar het Levend Model. De Kinderen van Huize ter Aar.</hi> <cell>&florin;&nbsp;4.90 ing. <cell>&florin;&nbsp;5.50 geb.
+
+
+<pb n=167 id=pb167>
+<!-- Jeanne Reyneke van Stuwe (vervolg). -->
+
+<row><cell><hi rend=bold>Zestien.</hi> <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell><hi rend=bold>Zeventien.</hi> <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell><hi rend=bold>Ik.</hi> <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell><hi rend=bold>Geëngageerd.</hi> <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell><hi rend=bold>Liefde. </hi> <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell><hi rend=bold>Een Verloving.</hi> <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell><hi rend=bold>Judith.</hi> <cell>&florin;&nbsp;0.90 ing. <cell>&florin;&nbsp;1.50 geb.
+<row><cell><hi rend=bold>De loop der Dingen</hi> <cell> <cell>&florin;&nbsp;4.50 geb.
+<row><cell><hi rend=bold>De Heer van de State.</hi> Tweede druk. <cell>&florin;&nbsp;3.25 ing. <cell>&florin;&nbsp;3.75 geb.
+<row><cell><hi rend=bold>Een Liefdesgeschiedenis.</hi> <cell>&florin;&nbsp;2.25 ing. <cell>&florin;&nbsp;2.75 geb.
+<row><cell><hi rend=bold>Het Kind.</hi> <cell>&florin;&nbsp;3.90 ing. <cell>&florin;&nbsp;4.50 geb.
+<row><cell><hi rend=bold>Hartstocht,</hi> Oorspr. Haagsche Roman, tweede druk <cell> <cell>&florin;&nbsp;2.90 geb.
+<row><cell><hi rend=bold>Tragische Levens.</hi> <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell><hi rend=bold>Schetsen.</hi> <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;2.90 geb.
+<row><cell><hi rend=bold>Impressies. Sonnetten en Verzen.</hi> <cell>&florin;&nbsp;1.25 ing. <cell>&florin;&nbsp;1.60 geb.
+<row><cell><hi rend=bold>Verzen.</hi> Met portret <cell>&florin;&nbsp;2.50 ing. <cell>&florin;&nbsp;3.&ndash; geb.
+</table>
+
+
+<pb n=168 id=pb168>
+<div1 id=ads6>
+<head>GUIDO GEZELLE, Dichtwerken,</head>
+
+
+<p>10 deelen.
+
+<p>Prijs ing. &florin;&nbsp;3.75, geb. &florin;&nbsp;5.50, geb. in leer &florin;&nbsp;7.50.
+
+<p>De uitgave bevat: Dichtoefeningen&mdash;Kerkhofblommen&mdash;Gedichten, Gezangen en Gebeden, Kleengedichten&mdash;Liederen, Eerdichten en Reliqua&mdash;Tijdkrans (2 deelen)&mdash;Rijmsnoer (2 deelen)&mdash;Hiawadha&apos;s Lied&mdash;Laatste Verzen.
+
+<p>Afzonderlijke deelen worden uit deze uitgave niet geleverd.
+
+<p>Deze uitgave is nu zoo goedkoop gesteld, dat het voor niemand meer een bezwaar kan zijn, ze aan te schaffen. Vroeger &florin;&nbsp;17.20 ing. &florin;&nbsp;22.&ndash; geb., thans voor &florin;&nbsp;3.75 ing., &florin;&nbsp;5.50 geb. linnen, &florin;&nbsp;7.50 gebonden leer.
+
+<p>In de Belgische Editie zijn nog verkrijgbaar: Dichtoefeningen&mdash;Kerkhofblommen&mdash;Gedichten, Gezangen en Gebeden, Kleengedichtjes&mdash;Liederen, Eerdichten et Reliqua à &florin;&nbsp;1.50 per deel ing., &florin;&nbsp;1.90 gebonden.
+
+<p>Tijdkrans&mdash;Rijmsnoer à &florin;&nbsp;2.50 per deel ing., &florin;&nbsp;2.90 gebonden.
+
+<p><hi rend=bold>Verzen</hi>, 2<hi rend=sup>e</hi> druk ing. &florin;&nbsp;3.90, geb. &florin;&nbsp;4.50.
+
+<p><hi rend=bold>Gedichten</hi>, samengest. door Dr. J. Aleida Nijland, ing. &florin;&nbsp;1.90, geb. &florin;&nbsp;2.50, in leer geb. &florin;&nbsp;3.50
+
+
+<pb n=169 id=pb169>
+<!-- Guido Gezelle (vervolg). -->
+
+<p><table id=t4>
+<row><cell cols=2><hi rend=bold>Bloemlezing</hi>, samengesteld door Dr. J. Aleida Nijland, 5<hi rend=sup>e</hi> verbeterde druk <cell>ing.&nbsp;&florin;&nbsp;0.90, <cell>geb.&nbsp;&florin;&nbsp;1.25
+<row><cell cols=2><hi rend=bold>Motto-Album</hi>, met versieringen van Jules de Praetere. Prijs gebonden in linnen of gebatikt <cell>&florin;&nbsp;1.50, <cell>geb. in lêer &florin;&nbsp;1.90
+<row><cell cols=2><hi rend=bold>Kleengedichtjes</hi>, Eerste en Tweede bundel. Prijs per bundel <cell>ing. &florin;&nbsp;0.25, <cell>geb. &florin;&nbsp;0.50
+<row><cell cols=3>In één band linnen of stof <cell>geb. &florin;&nbsp;0.90
+<row><cell cols=3>in één band leer gewatteerd <cell>geb. &florin;&nbsp;1.90
+<row><cell cols=3><hi rend=bold>Laatste Verzen</hi>, 3<hi rend=sup>e</hi> druk <cell>geb. &florin;&nbsp;1.90
+<row><cell cols=4><hi rend=bold>Prozawerken</hi>,
+<row><cell>dl. <cell>I. Uitstap in de Warande.  <cell>  <cell>
+<row><cell><cell>II. De Doolaards in Egypte.    <cell>  <cell>
+<row><cell><cell>III. Van den Kleenen Hertog.   <cell>  <cell>
+<row><cell cols=4>3 deelen ingenaaid &florin;&nbsp;3.&ndash;
+<row><cell cols=4>3 deelen gebonden &florin;&nbsp;4.50
+<row><cell cols=2><hi rend=bold>De Ring van het Kerkelijk Jaar</hi>, <cell>ing. &florin;&nbsp;2.50, <cell>geb. &florin;&nbsp;2.90
+<row><cell cols=3><hi rend=bold>Loquela, tot Woordenboek omgewerkt</hi>, <cell>geb. &florin;&nbsp;20.&ndash;
+<row><cell cols=2><hi rend=bold>Kerkhofblommen</hi>, School-Editie <cell>ing. &florin;&nbsp; 1.&ndash;  <cell>
+<row><cell cols=3><hi rend=bold>Rijmsnoer&mdash;Tijdkrans</hi>, 4<hi rend=sup>e</hi> druk, per deel <cell>gebonden &florin;&nbsp;2.50
+</table>
+
+<pb n=170 id=pb170>
+<!-- Guido Gezelle (vervolg). -->
+
+
+<p>GUIDO GEZELLE, Zijn Leven en Zijne Werken.
+
+<p>TWEEDE DRUK, met 16 Platen.
+
+<p>Prijs &florin;&nbsp;1.50 ingenaaid, &florin;&nbsp;1.90 gebonden.
+
+<p>Inhoud:
+
+<p><hi rend=bold>Guido Gezelle</hi>, door S. Dequidt,
+
+<p><hi rend=bold>Dichter Guido Gezelle</hi>, door S. Dequidt.
+
+<p><hi rend=bold>Guido Gezelle en de Friezen</hi>, door J. Winkler.
+
+<table rend="border-collapse(collapse)">
+<row rend="height(2em)"><cell><ditto><hi rend=bold>Guido Gezelle</hi></ditto>&nbsp;<cell><hi rend=bold>zijne Kunst</hi>, door Hugo Verriest.
+
+<row rend="height(2em)"><cell><ditto><hi rend=bold>Guido Gezelle</hi></ditto>&nbsp;<cell><hi rend=bold>en de jonge Limburgers</hi>, door Aug. Cuppens.
+
+<row><cell><ditto><hi rend=bold>Guido Gezelle</hi></ditto>&nbsp;<cell>door Gustaaf Segers.
+</table>
+
+<p><hi rend=bold>Beeld, Woord en Dicht bij Guido Gezelle</hi>, door Dr. G. Verriest.
+
+<p><hi rend=bold>Guido Gezelle, de mensch en priester, de leider en dichter</hi>, door H. Claeys.
+
+<p><hi rend=bold>Dietsche Warande en Belfort aan Guido Gezelle</hi>, door Kan. Eug. de Lepelleer.
+
+<p><hi rend=bold>Koninklijke begraving</hi>, door Hendrik Persijn.
+
+<p><hi rend=bold>Guido Gezelle</hi>, door H. J. M. Donders.
+
+<p><hi rend=bold>Lijkrede uitgesproken op het graf</hi>, door Dr. H. Claeys.
+
+<p><hi rend=bold>Guido Gezelle en de drukpers.</hi>
+
+
+<pb n=171 id=pb171>
+<div1 id=ads7>
+<head>Nederlandsche Schrijvers.</head>
+
+
+
+<p><table id=t5>
+<row><cell cols=4><hi rend=bold>Anna de Savornin Lohman</hi>,
+
+<row><cell>Wat nooit sterft <cell>ing. &florin;&nbsp;3.25 <cell>geb. &florin;&nbsp;3.90 <cell>
+<row><cell>Uit Christelijke Kringen <cell><ditto>ing.</ditto> &florin;&nbsp;3.25 <cell><ditto>geb.</ditto> &florin;&nbsp;3.90 <cell>
+<row><cell>Uit de sfeer gerukt <cell><ditto>ing.</ditto> &florin;&nbsp;2.50 <cell><ditto>geb.</ditto> &florin;&nbsp;2.90 <cell>
+<row><cell>Om de Eere Gods <cell><ditto>ing.</ditto> &florin;&nbsp;3.25 <cell><ditto>geb.</ditto> &florin;&nbsp;3.90 <cell>
+<row><cell>Jonge Roeping <cell><ditto>ing.</ditto> &florin;&nbsp;2.50 <cell><ditto>geb.</ditto> &florin;&nbsp;2.90 <cell>
+<row><cell>Liefde, 2<hi rend=sup>e</hi> druk <cell><cell><ditto>geb.</ditto> &florin;&nbsp;1.90 <cell>
+<row><cell>Kleine levensdingen <cell><ditto>ing.</ditto> &florin;&nbsp;2.50 <cell><ditto>geb.</ditto> &florin;&nbsp;2.90 <cell>
+
+
+<row><cell cols=4><hi rend=bold>Henri Borel</hi>,
+
+<row><cell>Levenshonger <cell>ing. &florin;&nbsp;2.50 <cell>geb. &florin;&nbsp;2.90 <cell>
+<row><cell>Het daghet in den Oosten <cell><ditto>ing.</ditto> &florin;&nbsp;4.25 <cell><ditto>geb.</ditto> &florin;&nbsp;4.90 <cell>
+<row><cell>Van de Engelen <cell><ditto>ing.</ditto> &florin;&nbsp;2.50 <cell><ditto>geb.</ditto> &florin;&nbsp;2.90 <cell>
+<row><cell>De Chineezen in N.-Indië <cell><ditto>ing.</ditto> &florin;&nbsp;1.25 <cell><ditto>geb.</ditto> &florin;&nbsp;1.60 <cell>
+<row><cell>Opstellen <cell><ditto>ing.</ditto> &florin;&nbsp;2.25 <cell><ditto>geb.</ditto> &florin;&nbsp;2.90 <cell>
+<row><cell>Studiën <cell><ditto>ing.</ditto> &florin;&nbsp;2.25 <cell><ditto>geb.</ditto> &florin;&nbsp;2.90 <cell>
+<row><cell>De Stille Stad <cell><cell><ditto>geb.</ditto> &florin;&nbsp;2.90 <cell>
+<row><cell>Chineesche kunst <cell><ditto>ing.</ditto> &florin;&nbsp;1.75 <cell> <cell>
+
+
+<row><cell cols=4><hi rend=bold>Anna van Gogh-Kaulbach</hi>,
+
+<row><cell>Otto van Lansveld <cell>ing. &florin;&nbsp;1.40 <cell>geb. &florin;&nbsp;1.90 <cell>
+<row><cell>Voor twee levens <cell><ditto>ing.</ditto> &florin;&nbsp;2.90 <cell><ditto>geb.</ditto> &florin;&nbsp;3.30 <cell>
+
+<pb n=172 id=pb172><!-- Nederlandsche Schrijvers (vervolg). -->
+
+<row><cell cols=4><hi rend=bold>Johanna van Woude</hi>,
+
+<row><cell>Van hart tot hart, 2<hi rend=sup>e</hi> uitgave <cell>ing. &florin;&nbsp;0.90 <cell>geb. &florin;&nbsp;1.25 <cell>
+<row><cell>Van de muziek des levens, 2<hi rend=sup>e</hi> druk <cell><ditto>ing.</ditto> &florin;&nbsp;0.90 <cell><ditto>geb.</ditto> &florin;&nbsp;1.25 <cell>
+<row><cell>Een verlaten Post, 4<hi rend=sup>e</hi> druk <cell><ditto>ing.</ditto> &florin;&nbsp;0.90 <cell><ditto>geb.</ditto> &florin;&nbsp;1.25 <cell>
+
+
+<row><cell cols=4><hi rend=bold>Henri van Wermeskerken</hi>,
+
+<row><cell>Leo Smeder, 3<hi rend=sup>e</hi> druk. <cell>ing. &florin;&nbsp;0.90 <cell>geb. &florin;&nbsp;1.25 <cell>
+<row><cell>Vervolg op &ldquo;Hollandsch Binnenhuisje&rdquo;. <cell cols=3>
+<row><cell>Is. Quérido, Levensgang, 2<hi rend=sup>e</hi> druk. <cell>ing. &florin;&nbsp;2.50 <cell>geb. &florin;&nbsp;2.90 <cell>
+
+
+<row><cell cols=4><hi rend=bold>Frans Coenen Jr.,</hi>
+
+<row><cell>Vluchtige Verschijningen <cell>ing. &florin;&nbsp;2.25 <cell>geb. &florin;&nbsp;2.90 <cell>
+<row><cell>Zondagsrust <cell><cell><ditto>geb.</ditto> &florin;&nbsp;2.90 <cell>
+<row><cell>In Duisternis <cell><ditto>ing.</ditto> &florin;&nbsp;2.25 <cell><ditto>geb.</ditto> &florin;&nbsp;2.90 <cell>
+
+
+<row><cell cols=4><hi rend=bold>Mr. M. G. L. van Loghem</hi>,
+
+<row><cell>Fokel, 2<hi rend=sup>e</hi> druk <cell>ing. &florin;&nbsp;1.&ndash; <cell>geb. &florin;&nbsp;1.50 <cell>
+
+
+<row><cell cols=4><hi rend=bold>P. A. M. Boele van Hensbroek</hi>,
+
+<row><cell>Liefde en Leed <cell>ing. &florin;&nbsp;1.50 <cell>geb. &florin;&nbsp;1.90 <cell>
+
+
+<row><cell cols=4><hi rend=bold>Max van Ravestein</hi>,
+
+<row><cell>Bij ons <cell>ing. &florin;&nbsp;2.90 <cell>geb. &florin;&nbsp;3.50 <cell>
+<row><cell>Aan d&apos;Overkant <cell>ing. &florin;&nbsp;2.90 <cell>geb. &florin;&nbsp;3.50 <cell>
+
+
+<row><cell><hi rend=bold>Jan Wz. Andenne</hi>, Frans Remaer, Van kussen en tranen, dl. I. <cell>ing. &florin;&nbsp;3.25 <cell>geb. &florin;&nbsp;3.90 <cell>
+
+<row><cell>Pieter Goeree, Van Kussen en tranen, dl. II. <cell>ing. &florin;&nbsp;3.25 <cell>geb. &florin;&nbsp;3.90 <cell>
+
+<pb n=173 id=pb173>
+<!-- Nederlandsche Schrijvers (vervolg). -->
+
+<row><cell><hi rend=bold>Overduyn-Heiligers</hi>, Als de Sennah&apos;s bloeien <cell>ing. &florin;&nbsp;1.90 <cell>geb. &florin;&nbsp;2.50 <cell>
+
+<row><cell>Zondigen <cell><ditto>ing.</ditto> &florin;&nbsp;3.90 <cell><ditto>geb.</ditto> &florin;&nbsp;4.50 <cell>
+<row><cell>Warm bloed <cell><cell><ditto>geb.</ditto> &florin;&nbsp;3.50 <cell>
+<row><cell>Om zijn eer <cell><ditto>ing.</ditto> &florin;&nbsp;4.90 <cell><ditto>geb.</ditto> &florin;&nbsp;5.50 <cell>
+<row><cell>Vrouw <cell><ditto>ing.</ditto> &florin;&nbsp;1.90 <cell><ditto>geb.</ditto> &florin;&nbsp;2.40 <cell>
+
+
+<row><cell cols=4><hi rend=bold>Prof. J. V. de Groot</hi>,
+
+<row><cell>Denkers van onzen tijd. <cell><ditto>ing.</ditto> &florin;&nbsp;2.90 <cell><ditto>geb.</ditto> &florin;&nbsp;3.50 <cell>
+
+
+<row><cell cols=4><hi rend=bold>Georg Grünewald Kz.</hi>,
+
+<row><cell>Spaanders <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90 <cell>
+<row><cell>Van het Wondere Ambt <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90 <cell>
+
+
+<row><cell><hi rend=bold>H. J. Schuurmans</hi>, Van de oude garde en een jong Predikant, <cell>ing. &florin;&nbsp;1.50 <cell>geb. &florin;&nbsp;1.90 <cell>
+
+
+<row><cell><hi rend=bold>Boeka</hi>, Pàhkasinum, Indische Roman, <cell>ing. &florin;&nbsp;2.50 <cell>geb. &florin;&nbsp;2.90 <cell>
+
+<row><cell><hi rend=bold>Melati van Java</hi>, Haar Held, <cell> <cell>geb. &florin;&nbsp;1.90 <cell>
+
+<row><cell>De Freule, <cell> <cell><ditto>geb.</ditto> &florin;&nbsp;1.90 <cell>
+
+
+<row><cell cols=4><hi rend=bold>Jeanne Haaxman</hi>,
+
+<row><cell>Het Leven is als een Damp <cell>ing. &florin;&nbsp;2.50 <cell>geb. &florin;&nbsp;2.90 <cell>
+
+
+<row><cell cols=4><hi rend=bold>Virginie Loveling</hi>,
+
+<row><cell>Het Lot der Kinderen <cell>ing. &florin;&nbsp;1.50 <cell>geb. &florin;&nbsp;1.90 <cell>
+
+
+<row><cell><hi rend=bold>Vondels Lyriek</hi>, Bloemlezing. <cell>ing. &florin;&nbsp;2.50 <cell>geb. &florin;&nbsp;2.90 <cell>leer &florin;&nbsp;4.90
+
+
+<row><cell cols=4><hi rend=bold>Joh. A. Wolters</hi>,
+
+<row><cell>In den Storm  <cell>ing. &florin;&nbsp;2.40 <cell>geb. &florin;&nbsp;2.90 <cell>
+<row><cell>Van Oosten &amp; Zoon <cell><ditto>ing.</ditto> &florin;&nbsp;2.40 <cell><ditto>geb.</ditto> &florin;&nbsp;2.90 <cell>
+<row><cell>Elise Soer, Gerda <cell><ditto>ing.</ditto> &florin;&nbsp;2.40 <cell><ditto>geb.</ditto> &florin;&nbsp;2.90 <cell>
+</table>
+
+
+
+<pb n=174 id=pb174>
+<div1 id=ads8>
+<head>In de VLAAMSCHE BIBLIOTHEEK verscheen:</head>
+
+
+<p><table id=t6>
+<row><cell><hi rend=bold>Albrecht Rodenbach</hi>, Complete Gedichten, <cell>ing. &florin;&nbsp;2.25 <cell>geb. &florin;&nbsp;2.90
+
+<row><cell><cell cols=2>Pracht-Exempl. &florin;&nbsp;4.90
+
+<row><cell><hi rend=bold>Leo van Puyvelde</hi>, Albrecht Rodenbach, 2<hi rend=sup>e</hi> dr. <cell>ing. &florin;&nbsp;2.50 <cell>geb. &florin;&nbsp;2.90
+
+<row><cell><hi rend=bold>Hugo Verriest</hi>, Op Wandel <cell>&florin;&nbsp;2.25 ing. <cell>
+<row><cell>Regenboog, 5<hi rend=sup>e</hi> druk <cell>&florin;&nbsp;0.90 <ditto>ing.</ditto> <cell>
+<row><cell>Dry Geestelijke Voordrachten <cell>&florin;&nbsp;0.90 <ditto>ing.</ditto> <cell>
+<row><cell>Twintig Vlaamsche Koppen, 2<hi rend=sup>e</hi> dr. 2 dln. <cell>&florin;&nbsp;2.90 <ditto>ing.</ditto> <cell>
+<row><cell>Voordrachten <cell>&florin;&nbsp;2.90 <ditto>ing.</ditto> <cell>
+
+
+<row><cell><hi rend=bold>André de Ridder</hi>, Hugo Verriest, <cell>ing. &florin;&nbsp;1.50 <cell>geb. &florin;&nbsp;1.90
+
+<row><cell><hi rend=bold>Dr. Maurits Sabbe</hi>, Aan &apos;t Minnewater, <cell>ing. &florin;&nbsp;1.50 <cell>geb. &florin;&nbsp;1.90
+
+
+<row><cell><hi rend=bold>Caesar Gezelle</hi>, Leliën van Dalen. <cell>ing. &florin;&nbsp;1.90 <cell>
+
+<row><cell>Uit het Leven der Dieren, <cell>ing. &florin;&nbsp;2.50 <cell>geb. &florin;&nbsp;2.90
+</table>
+
+
+
+<pb n=175 id=pb175>
+<div1 id=ads9>
+<head>Buitenlandsche Schrijvers.</head>
+
+
+<p><table id=t7>
+<row><cell cols=3><hi rend=bold>Marie Corelli</hi>,
+
+<row><cell>Het Eeuwige Leven <cell>ing. &florin;&nbsp;3.90 <cell>geb. &florin;&nbsp;4.50
+<row><cell>De Strijder, 7&frac12; duizend <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90
+<row><cell>De Schat des Hemels, 14<hi rend=sup>e</hi> duizend <cell><ditto>ing.</ditto> &florin;&nbsp;0.60 <cell><ditto>geb.</ditto> &florin;&nbsp;1.&ndash;
+<row><cell>De Ware Christen, 26<hi rend=sup>e</hi> duizend <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90
+<row><cell>Wereldlijke Macht, 13<hi rend=sup>e</hi> duizend <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90
+<row><cell>Alsem, 6<hi rend=sup>e</hi> duizend <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90
+<row><cell>Een Visioen van den Millionair, 3<hi rend=sup>e</hi> duizend <cell>ing. &florin;&nbsp;1.&ndash; <cell>geb. &florin;&nbsp;1.50
+<row><cell>Delicia, 2<hi rend=sup>e</hi> duizend <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90
+
+<row><cell cols=3><hi rend=bold>Hall Caine</hi>,
+
+<row><cell>De Dweper. 2<hi rend=sup>e</hi> druk <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90
+<row><cell>De Verloren Zoon, 4<hi rend=sup>e</hi> dr <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90
+<row><cell>De Witte Profeet <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90
+<row><cell>De Vrederechter <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90
+<row><cell>De Gijzelaar <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90
+
+<row><cell cols=3><hi rend=bold>Edward Stilgebauer</hi>,
+
+<row><cell>Götz Krafft, 4dln <cell>ing. à &florin;&nbsp;1.50 <cell>geb. &florin;&nbsp;1.90
+<row><cell>De Beurskoning <cell><ditto>ing.</ditto> &florin;&nbsp;1.50 <cell><ditto>geb.</ditto> &florin;&nbsp;1.90
+
+<pb n=176 id=pb176>
+<!-- Buitenlandsche Schrijvers (vervolg). -->
+
+<row><cell cols=3><hi rend=bold>Mark Twain</hi>,
+
+<row><cell>Jeanne d&apos;Arc <cell>ing. &florin;&nbsp;3.90 <cell>geb. &florin;&nbsp;4.50
+
+<row><cell cols=3><hi rend=bold>Oscar Wilde</hi>,
+
+<row><cell>Het portret van Dorian Gray, <cell>ing. &florin;&nbsp;0.60 <cell>geb. &florin;&nbsp;1.&ndash;
+
+<row><cell cols=3><hi rend=bold>Gustav Freytag</hi>,
+
+<row><cell>Soll und Haben <cell>geb. &florin;&nbsp;2.90 <cell>in leer &florin;&nbsp;4.90
+
+<row><cell cols=3><hi rend=bold>Felix Dahn</hi>,
+
+<row><cell>Sigwalt en Sigridh <cell>ing. &florin;&nbsp;1.75 <cell>geb. &florin;&nbsp;2.25
+
+<row><cell cols=3><hi rend=bold>Julius Stinde</hi>,
+
+<row><cell>Hotel Buchholz <cell><ditto>ing.</ditto> &florin;&nbsp;1.90 <cell><ditto>geb.</ditto> &florin;&nbsp;2.50
+<row><cell>Tante Constanz <cell><ditto>ing.</ditto> &florin;&nbsp;1.90 <cell><ditto>geb.</ditto> &florin;&nbsp;2.50
+
+<row><cell cols=3><hi rend=bold>Alfred Fried</hi>,
+
+<row><cell>Dagboek van een ter dood veroordeelde. <cell>ing. &florin;&nbsp;1.50 <cell>geb. &florin;&nbsp;1.90
+
+<row><cell cols=3><hi rend=bold>Hélène Böhlau</hi>,
+
+<row><cell>Het Rangeerterrein <cell><ditto>ing.</ditto> &florin;&nbsp;1.90 <cell><ditto>geb.</ditto> &florin;&nbsp;2.50
+<row><cell>Vrijheid <cell><ditto>ing.</ditto> &florin;&nbsp;1.90 <cell><ditto>geb.</ditto> &florin;&nbsp;2.50
+
+<row><cell cols=3><hi rend=bold>Rosa Mulholland</hi>,
+
+<row><cell>Om Godswil <cell><ditto>ing.</ditto> &florin;&nbsp;1.90 <cell><ditto>geb.</ditto> &florin;&nbsp;2.50
+
+<row><cell cols=3><hi rend=bold>Walter Besant</hi>,
+
+<row><cell>Het Vierde Geslacht <cell><ditto>ing.</ditto> &florin;&nbsp;2.90 <cell><ditto>geb.</ditto> &florin;&nbsp;3.50
+
+<row><cell cols=3><hi rend=bold>Jerome K. Jerome</hi>,
+
+<row><cell>Schetsen <cell><ditto>ing.</ditto> &florin;&nbsp;2.50 <cell><ditto>geb.</ditto> &florin;&nbsp;2.90
+
+<row><cell cols=3><hi rend=bold>F. Reginald Statham</hi>,
+
+<row><cell>Paul Kruger <cell><ditto>ing.</ditto> &florin;&nbsp;2.90 <cell><ditto>geb.</ditto> &florin;&nbsp;3.50
+
+<row><cell cols=3><hi rend=bold>Williamson</hi>,
+
+<row><cell>De opvoeding van Lord Loveland, <cell>ing. &florin;&nbsp;0.60 <cell>geb. &florin;&nbsp;1.10
+</table>
+
+
+<div1 id=backcover type=Cover>
+
+
+<p><figure id=back>
+<figDesc>Oorspronkelijke achterkant.</figDesc>
+</figure>
+
+
+</div1>
+
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
